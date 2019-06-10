@@ -1,4 +1,4 @@
-# Must-read Papers on Textual Adversarial Attack and Defense
+# Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
 Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 
@@ -14,6 +14,7 @@ Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 | [Both](#both) | Papers work on both black-box and white-box setting |
 | [Defense Only](#defense-only) | Papers work on defense |
 | [Evaluation](#evaluation) |  Papers propose new evaluations of textual attacks and defense |
+| [Application of TAAD in Other Fields](#application-of-TAAD-in-other-fields) |  Papers apply TAAD in other fields **except** Natural Language Processing (NLP) |
 
 ## Survey Papers
 1. **Analysis Methods in Neural Language Processing: A Survey.**
@@ -75,3 +76,9 @@ Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models.**
 *Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino.* NAACL-HLT 2019. [paper](https://www.aclweb.org/anthology/N19-1314)
 
+## Application of TAAD in Other Fields
+1. **Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations.**
+*Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun, Wei-Ying Ma.* CVPR 2019. [paper](https://arxiv.org/abs/1904.05521v1)
+1. **Learning Visually-Grounded Semantics from Contrastive Adversarial Samples.**
+*Haoyue Shi, Jiayuan Mao, Tete Xiao, Yuning Jiang, Jian Sun.* COLING 2018.
+[paper](https://aclweb.org/anthology/C18-1315)
