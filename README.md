@@ -24,6 +24,7 @@ Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 *Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li.* 2019. [[pdf](https://arxiv.org/pdf/1901.06796.pdf)]
 
 ## Black-box Only
+1. **Probing Neural Network Understanding of Natural Language Arguments.** *Timothy Niven, Hung-Yu Kao.* ACL 2019. [[pdf](https://arxiv.org/pdf/1907.07355.pdf)] [[code&data](https://github.com/IKMLab/arct2)]
 1. **PAWS: Paraphrase Adversaries from Word Scrambling.**
 *Yuan Zhang, Jason Baldridge, Luheng He.* NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1131)] [[dataset](https://g.co/dataset/paws)]
 1. **Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems.**
