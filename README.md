@@ -24,7 +24,7 @@ Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 *Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li.* 2019. [[pdf](https://arxiv.org/pdf/1901.06796.pdf)]
 
 ## Black-box Only
-1. **Probing Neural Network Understanding of Natural Language Arguments.** *Timothy Niven, Hung-Yu Kao.* ACL 2019. [[pdf](https://arxiv.org/pdf/1907.07355.pdf)] [[code&data](https://github.com/IKMLab/arct2)]
+1. **Probing Neural Network Understanding of Natural Language Arguments.** *Timothy Niven, Hung-Yu Kao.* ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1459)] [[code&data](https://github.com/IKMLab/arct2)]
 1. **PAWS: Paraphrase Adversaries from Word Scrambling.**
 *Yuan Zhang, Jason Baldridge, Luheng He.* NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1131)] [[dataset](https://g.co/dataset/paws)]
 1. **Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems.**
@@ -65,6 +65,7 @@ Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 *Suranjana Samanta, Sameep Mehta.* ECIR 2018. [[pdf](https://arxiv.org/pdf/1707.02812.pdf)]
 
 ## Both
+1. **Generating Fluent Adversarial Examples for Natural Languages.** *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li.* ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1559)]
 1. **TEXTBUGGER: Generating Adversarial Text Against Real-world Applications.**
 *Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, Ting Wang.* NDSS 2019. [[pdf](https://arxiv.org/pdf/1812.05271.pdf)]
 1. **Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension.**
