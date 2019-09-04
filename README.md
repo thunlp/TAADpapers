@@ -57,6 +57,7 @@ Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel.* UAI 2017 [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ## White-box Only
+1. **Universal Adversarial Triggers for Attacking and Analyzing NLP.** *Eric Wallace, Shi Feng, Nikhil Kandpal, Matt Gardner, Sameer Singh.* EMNLP-IJCNLP 2019. [[pdf](https://arxiv.org/pdf/1908.07125.pdf)] [[code](https://github.com/Eric-Wallace/universal-triggers)] [[website](http://www.ericswallace.com/triggers)]
 1. **On Adversarial Examples for Character-Level Neural Machine Translation.**
 *Javid Ebrahimi, Daniel Lowd, Dejing Dou.* COLING 2018. [[pdf](https://www.aclweb.org/anthology/C18-1055)] [[code](https://github.com/jebivid/adversarial-nmt)]
 1. **HotFlip: White-Box Adversarial Examples for Text Classification.**
