@@ -38,7 +38,7 @@ Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 1. **Breaking NLI Systems with Sentences that Require Simple Lexical Inferences.**
 *Max Glockner, Vered Shwartz, Yoav Goldberg* ACL 2018. [[pdf](https://www.aclweb.org/anthology/P18-2103)] [[dataset](https://github.com/BIU-NLP/Breaking_NLI)]
 1. **AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples.**
-*Dongyeop Kang, Tushar Khot, Ashish Sabharwal, Eduard Hovy.* ACL 2018. [[pdf](https://aclweb.org/anthology/P18-1079)] [[code](https://github.com/dykang/adventure)]
+*Dongyeop Kang, Tushar Khot, Ashish Sabharwal, Eduard Hovy.* ACL 2018. [[pdf](https://www.aclweb.org/anthology/P18-1225)] [[code](https://github.com/dykang/adventure)]
 1. **Semantically Equivalent Adversarial Rules for Debugging NLP Models.**
 *Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin* ACL 2018. [[pdf](https://aclweb.org/anthology/P18-1079)] [[code](https://github.com/marcotcr/sears)]
 1. **Robust Machine Comprehension Models via Adversarial Training.**
