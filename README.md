@@ -79,6 +79,7 @@ Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 ## Defense Only
 1. **Certified Robustness to Adversarial Word Substitutions.**
 *Robin Jia, Aditi Raghunathan, Kerem Göksel, Percy Liang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1423.pdf)]
+1. **Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification.** *Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang, Wei Wang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1496.pdf)]
 1. **Combating Adversarial Misspellings with Robust Word Recognition.**
 *Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton.* ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
 
