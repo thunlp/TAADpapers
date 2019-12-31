@@ -24,7 +24,8 @@ Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 *Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li.* 2019. [[pdf](https://arxiv.org/pdf/1901.06796.pdf)]
 
 ## Black-box Only
-1. **Probing Neural Network Understanding of Natural Language Arguments.** *Timothy Niven, Hung-Yu Kao.* ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1459)] [[code&data](https://github.com/IKMLab/arct2)]
+1. **Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency.** *Shuhuai Ren, Yihe Deng, Kun He, Wanxiang Che.* ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1103.pdf)] [[code](https://github.com/JHL-HUST/PWWS/)]
+1. **Probing Neural Network Understanding of Natural Language Arguments.** *Timothy Niven, Hung-Yu Kao.* ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1459.pdf)] [[code&data](https://github.com/IKMLab/arct2)]
 1. **PAWS: Paraphrase Adversaries from Word Scrambling.**
 *Yuan Zhang, Jason Baldridge, Luheng He.* NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1131)] [[dataset](https://g.co/dataset/paws)]
 1. **Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems.**
@@ -76,8 +77,10 @@ Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 *Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi.* IJCAI 2018. [[pdf](https://arxiv.org/ftp/arxiv/papers/1704/1704.08006.pdf)]
 
 ## Defense Only
+1. **Certified Robustness to Adversarial Word Substitutions.**
+*Robin Jia, Aditi Raghunathan, Kerem Göksel, Percy Liang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1423.pdf)]
 1. **Combating Adversarial Misspellings with Robust Word Recognition.**
-*Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton.* ACL 2019. [[pdf](https://arxiv.org/pdf/1905.11268.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
+*Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton.* ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
 
 ## Evaluation
 1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models.**
