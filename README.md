@@ -77,6 +77,7 @@ Contributed by Chenghao Yang, Fanchao Qi and Yuan Zang.
 *Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi.* IJCAI 2018. [[pdf](https://arxiv.org/ftp/arxiv/papers/1704/1704.08006.pdf)]
 
 ## Defense Only
+1. **LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification.** *Jingjing Xu, Liang Zhao, Hanqi Yan, Qi Zeng, Yun Liang, Xu Sun.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1554.pdf)] [[code](https://github.com/lancopku/LexicalAT)]
 1. **Certified Robustness to Adversarial Word Substitutions.**
 *Robin Jia, Aditi Raghunathan, Kerem Göksel, Percy Liang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1423.pdf)]
 1. **Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification.** *Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang, Wei Wang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1496.pdf)]
