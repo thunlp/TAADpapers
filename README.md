@@ -1,19 +1,21 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-43-brightgreen) ![](https://img.shields.io/badge/PRs-Welcom-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-43-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 
 ### Contents
 
-* [1. Survey Papers](#1. Survey Papers)
-* [2. Attack Papers](#2. Attack Papers) (classified according to perturbation level)
-	* [2.1 Sentence-level Attack](#2.1 Sentence-level Attack)
-	* [2.2 Word-level Attack](#2.2 Word-level Attack) 
-	* [2.3 Char-level Attack](#2.3 Char-level Attack)
-	* [2.4 Multi-level Attack](#2.4 Multi-level Attack)
-* [3. Defense Papers](#3. Defense Papers)
-* [4. Other Papers](#4. Other Papers)
+* [1. Survey Papers](#1.-Survey-Papers)
+* [2. Attack Papers](#2.-Attack-Papers) (classified according to perturbation level)
+	* [2.1 Sentence-level Attack](#2.1-Sentence-level-Attack)
+	* [2.2 Word-level Attack](#2.2-Word-level-Attack) 
+	* [2.3 Char-level Attack](#2.3-Char-level-Attack)
+	* [2.4 Multi-level Attack](#2.4-Multi-level-Attack)
+* [3. Defense Papers](#3.-Defense-Papers)
+* [4. Other Papers](#4.-Other-Papers)
+
+
 
 ## 1. Survey Papers
 
