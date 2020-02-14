@@ -6,14 +6,14 @@ Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 
 ### Contents
 
-[1. Survey Papers](#1. Survey Papers)
-[2. Attack Papers](#2. Attack Papers) (classified according to perturbation level)
-     [2.1 Sentence-level Attack](#2.1 Sentence-level Attack)
-     [2.2 Word-level Attack](#2.2 Word-level Attack)
-     [2.3 Char-level Attack](#2.3 Char-level Attack)
-     [2.4 Multi-level Attack](#2.4 Multi-level Attack)
-[3. Defense Papers](#3. Defense Papers)
-[4. Other Papers](#4. Other Papers)
+* [1. Survey Papers](#1. Survey Papers)
+* [2. Attack Papers](#2. Attack Papers) (classified according to perturbation level)
+	* [2.1 Sentence-level Attack](#2.1 Sentence-level Attack)
+	* [2.2 Word-level Attack](#2.2 Word-level Attack) 
+	* [2.3 Char-level Attack](#2.3 Char-level Attack)
+	* [2.4 Multi-level Attack](#2.4 Multi-level Attack)
+* [3. Defense Papers](#3. Defense Papers)
+* [4. Other Papers](#4. Other Papers)
 
 ## 1. Survey Papers
 
@@ -70,7 +70,6 @@ Each paper is attached to one or more following labels indicating how much infor
 *Suranjana Samanta, Sameep Mehta.* ECIR 2018. `gradient` [[pdf](https://arxiv.org/pdf/1707.02812.pdf)]
 1. **Crafting Adversarial Input Sequences For Recurrent Neural Networks** *Nicolas Papernot, Patrick McDaniel, Ananthram Swami, Richard Harang.* MILCOM 2016. `gradient` [[pdf](https://arxiv.org/pdf/1604.08275.pdf)]
 
-
 ### 2.3 Char-level Attack
 
 1. **Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems.**
@@ -91,7 +90,6 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension.**
 *Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu.* CoNLL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/K18-1011)]
 
-
 ## 3. Defense Papers
 
 1. **Certified Robustness to Adversarial Word Substitutions.**
@@ -101,6 +99,7 @@ Each paper is attached to one or more following labels indicating how much infor
 *Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton.* ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
 
 ## 4. Other Papers
+
 1. **LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification.** *Jingjing Xu, Liang Zhao, Hanqi Yan, Qi Zeng, Yun Liang, Xu Sun.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1554.pdf)] [[code](https://github.com/lancopku/LexicalAT)]
 1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models.**
 *Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino.* NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1314)] [[code](https://github.com/pmichel31415/teapot-nlp)]
