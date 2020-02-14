@@ -6,10 +6,10 @@ Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 
 ### Contents
 
-[1. Survey Papers](#1. Survey Papers)
-[2. Attack Papers](#2. Attack Papers) (classified according to perturbation level)
-     [2.1 Sentence-level Attack](#2.1 Sentence-level Attack)
-     [2.2 Word-level Attack](#2.2 Word-level Attack)
+[1. Survey Papers](#1. Survey Papers
+[2. Attack Papers](#2. Attack Papers) (classified according to perturbation level
+     [2.1 Sentence-level Attack](#2.1 Sentence-level Attack
+     [2.2 Word-level Attack](#2.2 Word-level Attack
      [2.3 Char-level Attack](#2.3 Char-level Attack)
      [2.4 Multi-level Attack](#2.4 Multi-level Attack)
 [3. Defense Papers](#3. Defense Papers)
