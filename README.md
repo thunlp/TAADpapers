@@ -13,7 +13,8 @@ Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 	* [2.3 Char-level Attack](#23-char-level-attack)
 	* [2.4 Multi-level Attack](#24-multi-level-attack)
 * [3. Defense Papers](#3-defense-papers)
-* [4. Other Papers](#4-Other-Papers)
+* [4. Certified Robustness Papers](#4-certified-robustness-papers)
+* [5. Other Papers](#5-other-papers)
 
 
 
@@ -96,16 +97,20 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ## 3. Defense Papers
 
+1. **Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification.** *Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang, Wei Wang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1496.pdf)] [[code](https://github.com/joey1993/bert-defender)]
+
+1. **Combating Adversarial Misspellings with Robust Word Recognition.**
+*Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton.* ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
+
+## 4. Certified Robustness Papers
+
 1. **Robustness Verification for Transformers.** *Zhouxing Shi, Huan Zhang, Kai-Wei Chang, Minlie Huang, Cho-Jui Hsieh.* ICLR 2020. [[pdf](https://arxiv.org/pdf/2002.06622.pdf)] [[code](https://github.com/shizhouxing/Robustness-Verification-for-Transformers)]
 1. **Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation.** *Po-Sen Huang, Robert Stanforth, Johannes Welbl, Chris Dyer, Dani Yogatama, Sven Gowal, Krishnamurthy Dvijotham, Pushmeet Kohli.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1419.pdf)]
 1. **Certified Robustness to Adversarial Word Substitutions.**
 *Robin Jia, Aditi Raghunathan, Kerem Göksel, Percy Liang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1423.pdf)] [[code](https://github.com/robinjia/certified-word-sub)]
-1. **Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification.** *Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang, Wei Wang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1496.pdf)] [[code](https://github.com/joey1993/bert-defender)]
 1. **POPQORN: Quantifying Robustness of Recurrent Neural Networks.** *Ching-Yun Ko, Zhaoyang Lyu, Lily Weng, Luca Daniel, Ngai Wong, Dahua Lin.* ICML 2019. [[pdf](http://proceedings.mlr.press/v97/ko19a/ko19a.pdf)] [[code](https://github.com/ZhaoyangLyu/POPQORN)]
-1. **Combating Adversarial Misspellings with Robust Word Recognition.**
-*Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton.* ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
 
-## 4. Other Papers
+## 5. Other Papers
 
 1. **LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification.** *Jingjing Xu, Liang Zhao, Hanqi Yan, Qi Zeng, Yun Liang, Xu Sun.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1554.pdf)] [[code](https://github.com/lancopku/LexicalAT)]
 1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models.**
