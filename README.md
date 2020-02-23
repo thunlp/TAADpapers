@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-44-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-47-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 
@@ -58,9 +58,9 @@ Each paper is attached to one or more following labels indicating how much infor
 *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel.* UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
-1. **Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment.** *Di Jin, Zhijing Jin, Joey Tianyi Zhou, Peter Szolovits.* AAAI-20. `score` [[pdf](https://arxiv.org/pdf/1907.11932v4)]
+1. **Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment.** *Di Jin, Zhijing Jin, Joey Tianyi Zhou, Peter Szolovits.* AAAI-20. `score` [[pdf](https://arxiv.org/pdf/1907.11932v4)] [[code](https://github.com/wqj111186/TextFooler)]
 1. **Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency.** *Shuhuai Ren, Yihe Deng, Kun He, Wanxiang Che.* ACL 2019. `score` [[pdf](https://www.aclweb.org/anthology/P19-1103.pdf)] [[code](https://github.com/JHL-HUST/PWWS/)]
-1. **Generating Fluent Adversarial Examples for Natural Languages.** *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li.* ACL 2019. `gradient` `score` [[pdf](https://www.aclweb.org/anthology/P19-1559)]
+1. **Generating Fluent Adversarial Examples for Natural Languages.** *Huangzhao Zhang, Hao Zhou, Ning Miao, Lei Li.* ACL 2019. `gradient` `score` [[pdf](https://www.aclweb.org/anthology/P19-1559)] [[code](https://github.com/LC-John/Metropolis-Hastings-Attacker)]
 1. **Universal Adversarial Attacks on Text Classifiers.** *Melika Behjati, Seyed-Mohsen Moosavi-Dezfooli, Mahdieh Soleymani Baghshah, Pascal Frossard.* ICASSP 2019. `gradient` [[pdf](https://ieeexplore.ieee.org/abstract/document/8682430)]
 1. **Generating Natural Language Adversarial Examples.**
 *Moustafa Alzantot, Yash Sharma, Ahmed Elgohary, Bo-Jhang Ho, Mani Srivastava, Kai-Wei Chang.* EMNLP 2018. `score` [[pdf](https://www.aclweb.org/anthology/D18-1316)] [[code](https://github.com/nesl/nlp_adversarial_examples)]
@@ -69,7 +69,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Deep Text Classification Can be Fooled.**
 *Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li, Wenchang Shi.* IJCAI 2018. `gradient` `score` [[pdf](https://arxiv.org/ftp/arxiv/papers/1704/1704.08006.pdf)]
 1. **Interpretable Adversarial Perturbation in Input Embedding Space for Text.**
-*Sato, Motoki, Jun Suzuki, Hiroyuki Shindo, and Yuji Matsumoto.* IJCAI 2018. `gradient` [[pdf](https://arxiv.org/pdf/1805.02917.pdf)] 
+*Sato, Motoki, Jun Suzuki, Hiroyuki Shindo, and Yuji Matsumoto.* IJCAI 2018. `gradient` [[pdf](https://arxiv.org/pdf/1805.02917.pdf)] [[code](https://github.com/aonotas/interpretable-adv)]
 1. **Towards Crafting Text Adversarial Samples.**
 *Suranjana Samanta, Sameep Mehta.* ECIR 2018. `gradient` [[pdf](https://arxiv.org/pdf/1707.02812.pdf)]
 1. **Crafting Adversarial Input Sequences For Recurrent Neural Networks** *Nicolas Papernot, Patrick McDaniel, Ananthram Swami, Richard Harang.* MILCOM 2016. `gradient` [[pdf](https://arxiv.org/pdf/1604.08275.pdf)]
@@ -92,13 +92,16 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **HotFlip: White-Box Adversarial Examples for Text Classification.**
 *Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou.* ACL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/P18-2006)] [[code](https://github.com/AnyiRao/WordAdver)]
 1. **Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension.**
-*Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu.* CoNLL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/K18-1011)]
+*Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu.* CoNLL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/K18-1011)] [[code](https://github.com/DigitalPhonetics/reading-comprehension)]
 
 ## 3. Defense Papers
 
+1. **Robustness Verification for Transformers.** *Zhouxing Shi, Huan Zhang, Kai-Wei Chang, Minlie Huang, Cho-Jui Hsieh.* ICLR 2020. [[pdf](https://arxiv.org/pdf/2002.06622.pdf)] [[code](https://github.com/shizhouxing/Robustness-Verification-for-Transformers)]
+1. **Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation.** *Po-Sen Huang, Robert Stanforth, Johannes Welbl, Chris Dyer, Dani Yogatama, Sven Gowal, Krishnamurthy Dvijotham, Pushmeet Kohli.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1419.pdf)]
 1. **Certified Robustness to Adversarial Word Substitutions.**
-*Robin Jia, Aditi Raghunathan, Kerem Göksel, Percy Liang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1423.pdf)]
-1. **Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification.** *Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang, Wei Wang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1496.pdf)]
+*Robin Jia, Aditi Raghunathan, Kerem Göksel, Percy Liang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1423.pdf)] [[code](https://github.com/robinjia/certified-word-sub)]
+1. **Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification.** *Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang, Wei Wang.* EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1496.pdf)] [[code](https://github.com/joey1993/bert-defender)]
+1. **POPQORN: Quantifying Robustness of Recurrent Neural Networks.** *Ching-Yun Ko, Zhaoyang Lyu, Lily Weng, Luca Daniel, Ngai Wong, Dahua Lin.* ICML 2019. [[pdf](http://proceedings.mlr.press/v97/ko19a/ko19a.pdf)] [[code](https://github.com/ZhaoyangLyu/POPQORN)]
 1. **Combating Adversarial Misspellings with Robust Word Recognition.**
 *Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton.* ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
 
@@ -108,7 +111,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models.**
 *Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino.* NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1314)] [[code](https://github.com/pmichel31415/teapot-nlp)]
 1. **Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations.**
-*Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun, Wei-Ying Ma.* CVPR 2019. [[pdf](https://arxiv.org/abs/1904.05521v1)]
+*Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun, Wei-Ying Ma.* CVPR 2019. [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Unified_Visual-Semantic_Embeddings_Bridging_Vision_and_Language_With_Structured_Meaning_CVPR_2019_paper.pdf)]
 1. **AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples.**
 *Dongyeop Kang, Tushar Khot, Ashish Sabharwal, Eduard Hovy.* ACL 2018. [[pdf](https://www.aclweb.org/anthology/P18-1225)] [[code](https://github.com/dykang/adventure)]
 1. **Learning Visually-Grounded Semantics from Contrastive Adversarial Samples.**
