@@ -38,6 +38,8 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Trick Me If You Can: Human-in-the-Loop Generation of Adversarial Examples for Question Answering.** *Eric Wallace, Pedro Rodriguez, Shi Feng, Ikuya Yamada, Jordan Boyd-Graber.* TACL 2019. `score` [[pdf](https://www.aclweb.org/anthology/Q19-1029.pdf)]
 1. **PAWS: Paraphrase Adversaries from Word Scrambling.**
 *Yuan Zhang, Jason Baldridge, Luheng He.* NAACL-HLT 2019. `blind` [[pdf](https://www.aclweb.org/anthology/N19-1131)] [[dataset](https://g.co/dataset/paws)]
+1. **Evaluating and Enhancing the Robustness of Dialogue Systems: A Case Study on a Negotiation Agent.**
+*Minhao Cheng, Wei Wei, Cho-Jui Hsieh.* NAACL-HLT 2019. `gradient` `score` [[pdf](https://www.aclweb.org/anthology/N19-1336)] [[code](https://github.com/cmhcbb/Robustness-of-Dialogue-systems)]
 1. **Semantically Equivalent Adversarial Rules for Debugging NLP Models.**
 *Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin* ACL 2018. `decision` [[pdf](https://aclweb.org/anthology/P18-1079)] [[code](https://github.com/marcotcr/sears)]
 1. **Adversarial Over-Sensitivity and Over-Stability Strategies for Dialogue Models.**
