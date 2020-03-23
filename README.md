@@ -138,3 +138,6 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Learning Visually-Grounded Semantics from Contrastive Adversarial Samples**.
 *Haoyue Shi, Jiayuan Mao, Tete Xiao, Yuning Jiang, Jian Sun*. COLING 2018.
 [[pdf](https://aclweb.org/anthology/C18-1315)] [[code](https://github.com/ExplorerFreda/VSE-C)]
+1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models**.
+*Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino*. NAACL 2019.
+[[pdf](https://www.aclweb.org/anthology/N19-1314.pdf)] [[code](https://github.com/pmichel31415/teapot-nlp)]
