@@ -14,7 +14,8 @@ Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 	* [2.4 Multi-level Attack](#24-multi-level-attack)
 * [3. Defense Papers](#3-defense-papers)
 * [4. Certified Robustness Papers](#4-certified-robustness-papers)
-* [5. Other Papers](#5-other-papers)
+* [5. Benchmark and Evaluation](#5-benchmark-and-evaluation)
+* [6. Other Papers](#6-other-papers)
 
 
 
@@ -125,12 +126,16 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **POPQORN: Quantifying Robustness of Recurrent Neural Networks**.
 *Ching-Yun Ko, Zhaoyang Lyu, Lily Weng, Luca Daniel, Ngai Wong, Dahua Lin*. ICML 2019. [[pdf](http://proceedings.mlr.press/v97/ko19a/ko19a.pdf)] [[code](https://github.com/ZhaoyangLyu/POPQORN)]
 
-## 5. Other Papers
+
+## 5. Benchmark and Evaluation
+1. **Evaluating NLP Models via Contrast Sets**.*Matt Gardner, Yoav Artzi, Victoria Basmova, Jonathan Berant, Ben Bogin, Sihao Chen, Pradeep Dasigi, Dheeru Dua, Yanai Elazar, Ananth Gottumukkala, Nitish Gupta, Hanna Hajishirzi, Gabriel Ilharco, Daniel Khashabi, Kevin Lin, Jiangming Liu, Nelson F. Liu, Phoebe Mulcaire, Qiang Ning, Sameer Singh, Noah A. Smith, Sanjay Subramanian, Reut Tsarfaty, Eric Wallace, Ally Zhang, Ben Zhou*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2004.02709.pdf)][[website](https://allennlp.org/contrast-sets)]
+1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models**.
+*Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino*. NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1314)] [[code](https://github.com/pmichel31415/teapot-nlp)]
+
+## 6. Other Papers
 
 1. **LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification**.
 *Jingjing Xu, Liang Zhao, Hanqi Yan, Qi Zeng, Yun Liang, Xu Sun*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1554.pdf)] [[code](https://github.com/lancopku/LexicalAT)]
-1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models**.
-*Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino*. NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1314)] [[code](https://github.com/pmichel31415/teapot-nlp)]
 1. **Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations**.
 *Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun, Wei-Ying Ma*. CVPR 2019. [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Unified_Visual-Semantic_Embeddings_Bridging_Vision_and_Language_With_Structured_Meaning_CVPR_2019_paper.pdf)]
 1. **AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples**.
