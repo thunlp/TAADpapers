@@ -23,10 +23,10 @@ Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 
 1. **Towards a Robust Deep Neural Network in Texts: A Survey**.
 *Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang, Aoshuang Ye*. arXiv 2020. [[pdf](https://arxiv.org/pdf/1902.07285.pdf)]
+1. **Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey**.
+*Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li*. ACM TIST 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3374217)]
 1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review**.
 *Han Xu, Yao Ma, Haochen Liu, Debayan Deb, Hui Liu, Jiliang Tang, Anil K. Jain*. arXiv 2019. [[pdf](https://arxiv.org/pdf/1909.08072.pdf)]
-1. **Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey**.
-*Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li*. arXiv 2019. [[pdf](https://arxiv.org/pdf/1901.06796.pdf)]
 1. **Analysis Methods in Neural Language Processing: A Survey**.
 *Yonatan Belinkov, James Glass*. TACL 2019. [[pdf](https://www.aclweb.org/anthology/papers/Q/Q19/Q19-1004/)]
 
