@@ -116,6 +116,10 @@ Each paper is attached to one or more following labels indicating how much infor
 *Emily Dinan, Samuel Humeau, Bharath Chintagunta, Jason Weston*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1461.pdf)] [[data](https://parl.ai/projects/dialogue_safety/)]
 1. **Combating Adversarial Misspellings with Robust Word Recognition**.
 *Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
+1. **Joint Character-level Word Embedding and Adversarial Stability Training to Defend Adversarial Text**.
+*Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, Yige Chen*. AAAI 2020. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuH.1396.pdf)]
+1. **A Robust Adversarial Training Approach to Machine Reading Comprehension**.
+*Kai Liu, Xin Liu, An Yang, Jing Liu, Jinsong Su, Sujian Li, Qiaoqiao She*. AAAI 2020. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuK.6841.pdf)]
 
 ## 4. Certified Robustness Papers
 
@@ -146,6 +150,3 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Learning Visually-Grounded Semantics from Contrastive Adversarial Samples**.
 *Haoyue Shi, Jiayuan Mao, Tete Xiao, Yuning Jiang, Jian Sun*. COLING 2018.
 [[pdf](https://aclweb.org/anthology/C18-1315)] [[code](https://github.com/ExplorerFreda/VSE-C)]
-1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models**.
-*Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino*. NAACL 2019.
-[[pdf](https://www.aclweb.org/anthology/N19-1314.pdf)] [[code](https://github.com/pmichel31415/teapot-nlp)]
