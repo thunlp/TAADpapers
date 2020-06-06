@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-47-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-50-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 
@@ -14,7 +14,8 @@ Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 	* [2.4 Multi-level Attack](#24-multi-level-attack)
 * [3. Defense Papers](#3-defense-papers)
 * [4. Certified Robustness Papers](#4-certified-robustness-papers)
-* [5. Other Papers](#5-other-papers)
+* [5. Benchmark and Evaluation](#5-benchmark-and-evaluation)
+* [6. Other Papers](#6-other-papers)
 
 
 
@@ -22,10 +23,10 @@ Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 
 1. **Towards a Robust Deep Neural Network in Texts: A Survey**.
 *Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang, Aoshuang Ye*. arXiv 2020. [[pdf](https://arxiv.org/pdf/1902.07285.pdf)]
+1. **Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey**.
+*Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li*. ACM TIST 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3374217)]
 1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review**.
 *Han Xu, Yao Ma, Haochen Liu, Debayan Deb, Hui Liu, Jiliang Tang, Anil K. Jain*. arXiv 2019. [[pdf](https://arxiv.org/pdf/1909.08072.pdf)]
-1. **Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey**.
-*Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li*. arXiv 2019. [[pdf](https://arxiv.org/pdf/1901.06796.pdf)]
 1. **Analysis Methods in Neural Language Processing: A Survey**.
 *Yonatan Belinkov, James Glass*. TACL 2019. [[pdf](https://www.aclweb.org/anthology/papers/Q/Q19/Q19-1004/)]
 
@@ -62,8 +63,9 @@ Each paper is attached to one or more following labels indicating how much infor
 *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
+1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. `score` [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
 1. **Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment**.
-*Di Jin, Zhijing Jin, Joey Tianyi Zhou, Peter Szolovits*. AAAI-20. `score` [[pdf](https://arxiv.org/pdf/1907.11932v4)] [[code](https://github.com/wqj111186/TextFooler)]
+*Di Jin, Zhijing Jin, Joey Tianyi Zhou, Peter Szolovits*. AAAI-20. `score` [[pdf](https://arxiv.org/pdf/1907.11932v4)] [[code](https://github.com/jind11/TextFooler)]
 1. **Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency**.
 *Shuhuai Ren, Yihe Deng, Kun He, Wanxiang Che*. ACL 2019. `score` [[pdf](https://www.aclweb.org/anthology/P19-1103.pdf)] [[code](https://github.com/JHL-HUST/PWWS/)]
 1. **Generating Fluent Adversarial Examples for Natural Languages**.
@@ -110,7 +112,8 @@ Each paper is attached to one or more following labels indicating how much infor
 
 1. **Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification**.
 *Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang, Wei Wang*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1496.pdf)] [[code](https://github.com/joey1993/bert-defender)]
-
+1. **Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack**.
+*Emily Dinan, Samuel Humeau, Bharath Chintagunta, Jason Weston*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1461.pdf)] [[data](https://parl.ai/projects/dialogue_safety/)]
 1. **Combating Adversarial Misspellings with Robust Word Recognition**.
 *Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
 
@@ -125,12 +128,17 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **POPQORN: Quantifying Robustness of Recurrent Neural Networks**.
 *Ching-Yun Ko, Zhaoyang Lyu, Lily Weng, Luca Daniel, Ngai Wong, Dahua Lin*. ICML 2019. [[pdf](http://proceedings.mlr.press/v97/ko19a/ko19a.pdf)] [[code](https://github.com/ZhaoyangLyu/POPQORN)]
 
-## 5. Other Papers
+
+## 5. Benchmark and Evaluation
+1. **Evaluating NLP Models via Contrast Sets**.
+*Matt Gardner, Yoav Artzi, Victoria Basmova, Jonathan Berant, Ben Bogin, Sihao Chen, Pradeep Dasigi, Dheeru Dua, Yanai Elazar, Ananth Gottumukkala, Nitish Gupta, Hanna Hajishirzi, Gabriel Ilharco, Daniel Khashabi, Kevin Lin, Jiangming Liu, Nelson F. Liu, Phoebe Mulcaire, Qiang Ning, Sameer Singh, Noah A. Smith, Sanjay Subramanian, Reut Tsarfaty, Eric Wallace, Ally Zhang, Ben Zhou*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2004.02709.pdf)] [[website](https://allennlp.org/contrast-sets)]
+1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models**.
+*Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino*. NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1314)] [[code](https://github.com/pmichel31415/teapot-nlp)]
+
+## 6. Other Papers
 
 1. **LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification**.
 *Jingjing Xu, Liang Zhao, Hanqi Yan, Qi Zeng, Yun Liang, Xu Sun*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1554.pdf)] [[code](https://github.com/lancopku/LexicalAT)]
-1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models**.
-*Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino*. NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1314)] [[code](https://github.com/pmichel31415/teapot-nlp)]
 1. **Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations**.
 *Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun, Wei-Ying Ma*. CVPR 2019. [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Unified_Visual-Semantic_Embeddings_Bridging_Vision_and_Language_With_Structured_Meaning_CVPR_2019_paper.pdf)]
 1. **AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples**.
