@@ -65,7 +65,7 @@ Each paper is attached to one or more following labels indicating how much infor
 ### 2.2 Word-level Attack
 1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. `score` [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
 1. **Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment**.
-*Di Jin, Zhijing Jin, Joey Tianyi Zhou, Peter Szolovits*. AAAI-20. `score` [[pdf](https://arxiv.org/pdf/1907.11932v4)] [[code](https://github.com/jind11/TextFooler)]
+*Di Jin, Zhijing Jin, Joey Tianyi Zhou, Peter Szolovits*. AAAI 2020. `score` [[pdf](https://arxiv.org/pdf/1907.11932v4)] [[code](https://github.com/jind11/TextFooler)]
 1. **Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples**.
 *Minhao Cheng, Jinfeng Yi, Pin-Yu Chen, Huan Zhang, Cho-Jui Hsieh*. AAAI 2020. `score`  [[pdf](https://arxiv.org/pdf/1803.01128.pdf)][[code](https://github.com/cmhcbb/Seq2Sick)]
 1. **Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency**.
