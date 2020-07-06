@@ -123,6 +123,10 @@ Each paper is attached to one or more following labels indicating how much infor
 *Emily Dinan, Samuel Humeau, Bharath Chintagunta, Jason Weston*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1461.pdf)] [[data](https://parl.ai/projects/dialogue_safety/)]
 1. **Combating Adversarial Misspellings with Robust Word Recognition**.
 *Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
+1. **Robust-to-Noise Models in Natural Language Processing Tasks**.
+*Valentin Malykh*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-2002.pdf)][[code](https://gitlab.com/madrugado/robust-w2v)]
+1. **Robust Encodings: A Framework for Combating Adversarial Typos**.
+*Erik Jones, Robin Jia, Aditi Raghunathan, Percy Liang*. ACL 2020. [[pdf](https://arxiv.org/pdf/2005.01229.pdf)][[code](https://worksheets.codalab.org/worksheets/0x8fc01c7fc2b742fdb29c05669f0ad7d2)]
 
 
 ## 4. Certified Robustness Papers
