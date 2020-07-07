@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-55-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-59-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 
@@ -35,6 +35,9 @@ Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 Each paper is attached to one or more following labels indicating how much information the **attack model** knows about the **victim model**: `gradient` (=`white`, all information), `score` (output decision and scores), `decision` (only output decision) and `blind` (nothing)
 
 ### 2.1 Sentence-level Attack
+
+1. **Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples**.
+*Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng, Xuanjing Huang*. ACL 2020. `score, gradient` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.590.pdf)][[code](https://github.com/zjiehang/DPAttack)]
 1. **Probing Neural Network Understanding of Natural Language Arguments**.
 *Timothy Niven, Hung-Yu Kao*. ACL 2019. `score` [[pdf](https://www.aclweb.org/anthology/P19-1459.pdf)] [[code&data](https://github.com/IKMLab/arct2)]
 1. **Robust Neural Machine Translation with Doubly Adversarial Inputs**.
@@ -113,6 +116,8 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ## 3. Defense Papers
 
+1. **Robust Encodings: A Framework for Combating Adversarial Typos**.
+*Erik Jones, Robin Jia, Aditi Raghunathan, Percy Liang*. ACL 2020. [[pdf](https://arxiv.org/pdf/2005.01229.pdf)][[code](https://worksheets.codalab.org/worksheets/0x8fc01c7fc2b742fdb29c05669f0ad7d2)]
 1. **Joint Character-level Word Embedding and Adversarial Stability Training to Defend Adversarial Text**.
 *Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, Yige Chen*. AAAI 2020. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuH.1396.pdf)]
 1. **A Robust Adversarial Training Approach to Machine Reading Comprehension**.
@@ -123,10 +128,14 @@ Each paper is attached to one or more following labels indicating how much infor
 *Emily Dinan, Samuel Humeau, Bharath Chintagunta, Jason Weston*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1461.pdf)] [[data](https://parl.ai/projects/dialogue_safety/)]
 1. **Combating Adversarial Misspellings with Robust Word Recognition**.
 *Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
+1. **Robust-to-Noise Models in Natural Language Processing Tasks**.
+*Valentin Malykh*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-2002.pdf)][[code](https://gitlab.com/madrugado/robust-w2v)]
 
 
 ## 4. Certified Robustness Papers
 
+1. **SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions**.
+*Mao Ye, Chengyue Gong, Qiang Liu*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.317.pdf)][[code](https://github.com/lushleaf/Structure-free-certified-NLP)]
 1. **Robustness Verification for Transformers**.
 *Zhouxing Shi, Huan Zhang, Kai-Wei Chang, Minlie Huang, Cho-Jui Hsieh*. ICLR 2020. [[pdf](https://arxiv.org/pdf/2002.06622.pdf)] [[code](https://github.com/shizhouxing/Robustness-Verification-for-Transformers)]
 1. **Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation**.
