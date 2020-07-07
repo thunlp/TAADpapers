@@ -139,6 +139,8 @@ Each paper is attached to one or more following labels indicating how much infor
 *Robin Jia, Aditi Raghunathan, Kerem Göksel, Percy Liang*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1423.pdf)] [[code](https://github.com/robinjia/certified-word-sub)]
 1. **POPQORN: Quantifying Robustness of Recurrent Neural Networks**.
 *Ching-Yun Ko, Zhaoyang Lyu, Lily Weng, Luca Daniel, Ngai Wong, Dahua Lin*. ICML 2019. [[pdf](http://proceedings.mlr.press/v97/ko19a/ko19a.pdf)] [[code](https://github.com/ZhaoyangLyu/POPQORN)]
+1. **SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions**.
+*Mao Ye, Chengyue Gong, Qiang Liu*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.317.pdf)][[code](https://github.com/lushleaf/Structure-free-certified-NLP)]
 
 
 ## 5. Benchmark and Evaluation
