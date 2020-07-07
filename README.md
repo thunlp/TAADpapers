@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-59-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-60-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 
@@ -67,6 +67,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ### 2.2 Word-level Attack
 1. **Greedy Attack and Gumbel Attack: Generating Adversarial Examples for Discrete Data**. *Puyudi Yang, Jianbo Chen, Cho-Jui Hsieh, Jane-LingWang, Michael I. Jordan*. Journal of Machine Learning Research 21, no. 43 (2020): 1-36. `score` [[pdf](http://jmlr.org/papers/volume21/19-569/19-569.pdf)]
+1. **On the Robustness of Language Encoders against Grammatical Errors**. *Fan Yin, Quanyu Long, Tao Meng, Kai-Wei Chang*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.310.pdf)] [[code](https://github.com/uclanlp/ProbeGrammarRobustness)]
 1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. `score` [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
 1. **Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment**.
 *Di Jin, Zhijing Jin, Joey Tianyi Zhou, Peter Szolovits*. AAAI 2020. `score` [[pdf](https://arxiv.org/pdf/1907.11932v4)] [[code](https://github.com/jind11/TextFooler)]
