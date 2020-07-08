@@ -67,6 +67,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ### 2.2 Word-level Attack
 1. **Greedy Attack and Gumbel Attack: Generating Adversarial Examples for Discrete Data**. *Puyudi Yang, Jianbo Chen, Cho-Jui Hsieh, Jane-LingWang, Michael I. Jordan*. Journal of Machine Learning Research 21, no. 43 (2020): 1-36. `score` [[pdf](http://jmlr.org/papers/volume21/19-569/19-569.pdf)]
+1. **It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations**. *Samson Tan, Shafiq Joty, Min-Yen Kan, Richard Socher*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.263.pdf)] [[code](https://github.com/salesforce/morpheus)]
 1. **On the Robustness of Language Encoders against Grammatical Errors**. *Fan Yin, Quanyu Long, Tao Meng, Kai-Wei Chang*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.310.pdf)] [[code](https://github.com/uclanlp/ProbeGrammarRobustness)]
 1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. `score` [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
 1. **Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment**.
@@ -118,7 +119,7 @@ Each paper is attached to one or more following labels indicating how much infor
 ## 3. Defense Papers
 
 1. **Robust Encodings: A Framework for Combating Adversarial Typos**.
-*Erik Jones, Robin Jia, Aditi Raghunathan, Percy Liang*. ACL 2020. [[pdf](https://arxiv.org/pdf/2005.01229.pdf)][[code](https://worksheets.codalab.org/worksheets/0x8fc01c7fc2b742fdb29c05669f0ad7d2)]
+*Erik Jones, Robin Jia, Aditi Raghunathan, Percy Liang*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.245.pdf)] [[code](https://worksheets.codalab.org/worksheets/0x8fc01c7fc2b742fdb29c05669f0ad7d2)]
 1. **Joint Character-level Word Embedding and Adversarial Stability Training to Defend Adversarial Text**.
 *Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, Yige Chen*. AAAI 2020. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuH.1396.pdf)]
 1. **A Robust Adversarial Training Approach to Machine Reading Comprehension**.
