@@ -13,7 +13,7 @@ Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 	* [2.3 Char-level Attack](#23-char-level-attack)
 	* [2.4 Multi-level Attack](#24-multi-level-attack)
 * [3. Defense Papers](#3-defense-papers)
-* [4. Certified Robustness Papers](#4-certified-robustness-papers)
+* [4. Certified Robustness](#4-certified-robustness)
 * [5. Benchmark and Evaluation](#5-benchmark-and-evaluation)
 * [6. Other Papers](#6-other-papers)
 
@@ -37,7 +37,7 @@ Each paper is attached to one or more following labels indicating how much infor
 ### 2.1 Sentence-level Attack
 
 1. **Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples**.
-*Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng, Xuanjing Huang*. ACL 2020. `score, gradient` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.590.pdf)][[code](https://github.com/zjiehang/DPAttack)]
+*Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng, Xuanjing Huang*. ACL 2020. `score, gradient` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.590.pdf)] [[code](https://github.com/zjiehang/DPAttack)]
 1. **Probing Neural Network Understanding of Natural Language Arguments**.
 *Timothy Niven, Hung-Yu Kao*. ACL 2019. `score` [[pdf](https://www.aclweb.org/anthology/P19-1459.pdf)] [[code&data](https://github.com/IKMLab/arct2)]
 1. **Robust Neural Machine Translation with Doubly Adversarial Inputs**.
@@ -66,7 +66,7 @@ Each paper is attached to one or more following labels indicating how much infor
 *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
-1. **Greedy Attack and Gumbel Attack: Generating Adversarial Examples for Discrete Data**. *Puyudi Yang, Jianbo Chen, Cho-Jui Hsieh, Jane-LingWang, Michael I. Jordan*. Journal of Machine Learning Research 21, no. 43 (2020): 1-36. `score` [[pdf](http://jmlr.org/papers/volume21/19-569/19-569.pdf)]
+1. **Greedy Attack and Gumbel Attack: Generating Adversarial Examples for Discrete Data**. *Puyudi Yang, Jianbo Chen, Cho-Jui Hsieh, Jane-LingWang, Michael I. Jordan*. JMLR 2020. `score` [[pdf](http://jmlr.org/papers/volume21/19-569/19-569.pdf)]
 1. **It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations**. *Samson Tan, Shafiq Joty, Min-Yen Kan, Richard Socher*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.263.pdf)] [[code](https://github.com/salesforce/morpheus)]
 1. **On the Robustness of Language Encoders against Grammatical Errors**. *Fan Yin, Quanyu Long, Tao Meng, Kai-Wei Chang*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.310.pdf)] [[code](https://github.com/uclanlp/ProbeGrammarRobustness)]
 1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. `score` [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
@@ -97,10 +97,8 @@ Each paper is attached to one or more following labels indicating how much infor
 
 1. **Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems**.
 *Steffen Eger, Gözde Gül ¸Sahin, Andreas Rücklé, Ji-Ung Lee, Claudia Schulz, Mohsen Mesgar, Krishnkant Swarnkar, Edwin Simpson, Iryna Gurevych*. NAACL-HLT 2019. `score` [[pdf](https://www.aclweb.org/anthology/N19-1165)] [[code&data](https://github.com/UKPLab/naacl2019-like-humans-visual-attacks)]
-1. **TEXTBUGGER: Generating Adversarial Text Against Real-world Applications**.
-*Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, Ting Wang*. NDSS 2019. `gradient` `score` [[pdf](https://arxiv.org/pdf/1812.05271.pdf)]
 1. **Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers**.
-*Ji Gao, Jack Lanchantin, Mary Lou Soffa, Yanjun Qi*. IEEE SPW 2018. `score` `blind` [[pdf](https://ieeexplore.ieee.org/document/8424632)] [[code](https://github.com/QData/deepWordBug)]
+*Ji Gao, Jack Lanchantin, Mary Lou Soffa, Yanjun Qi*. IEEE SPW 2018. `score`[[pdf](https://ieeexplore.ieee.org/document/8424632)] [[code](https://github.com/QData/deepWordBug)]
 1. **On Adversarial Examples for Character-Level Neural Machine Translation**.
 *Javid Ebrahimi, Daniel Lowd, Dejing Dou*. COLING 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/C18-1055)] [[code](https://github.com/jebivid/adversarial-nmt)]
 1. **Synthetic and Natural Noise Both Break Neural Machine Translation**.
@@ -109,6 +107,8 @@ Each paper is attached to one or more following labels indicating how much infor
 ### 2.4 Multi-level Attack
 1. **Universal Adversarial Triggers for Attacking and Analyzing NLP**.
 *Eric Wallace, Shi Feng, Nikhil Kandpal, Matt Gardner, Sameer Singh*. EMNLP-IJCNLP 2019. `gradient` [[pdf](https://arxiv.org/pdf/1908.07125.pdf)] [[code](https://github.com/Eric-Wallace/universal-triggers)] [[website](http://www.ericswallace.com/triggers)]
+1. **TEXTBUGGER: Generating Adversarial Text Against Real-world Applications**.
+*Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, Ting Wang*. NDSS 2019. `gradient` `score` [[pdf](https://arxiv.org/pdf/1812.05271.pdf)]
 1. **Generating Black-Box Adversarial Examples for Text Classifiers Using a Deep Reinforced Model**.
 *Prashanth Vijayaraghavan, Deb Roy*. ECMLPKDD 2019. `score` [[pdf](https://ecmlpkdd2019.org/downloads/paper/852.pdf)]
 1. **HotFlip: White-Box Adversarial Examples for Text Classification**.
@@ -134,7 +134,7 @@ Each paper is attached to one or more following labels indicating how much infor
 *Valentin Malykh*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-2002.pdf)][[code](https://gitlab.com/madrugado/robust-w2v)]
 
 
-## 4. Certified Robustness Papers
+## 4. Certified Robustness
 
 1. **SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions**.
 *Mao Ye, Chengyue Gong, Qiang Liu*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.317.pdf)][[code](https://github.com/lushleaf/Structure-free-certified-NLP)]
