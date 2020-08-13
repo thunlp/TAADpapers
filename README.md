@@ -1,11 +1,12 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-63-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-65-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 
 ### Contents
 
+* [0. Toolkits](#0-toolkits)
 * [1. Survey Papers](#1-survey-papers)
 * [2. Attack Papers](#2-attack-papers) (classified according to perturbation level)
 	* [2.1 Sentence-level Attack](#21-sentence-level-attack)
@@ -18,6 +19,9 @@ Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
 * [6. Other Papers](#6-other-papers)
 
 
+## 0. Toolkits
+1. **OpenAttack**. *Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, Bairu Hou, Yuan Zang, Zhiyuan Liu, Maosong Sun*. [[website](https://github.com/thunlp/OpenAttack)] [[doc](https://openattack.readthedocs.io/)]
+1. **TextAttack**. *John X. Morris, Eli Liﬂand, Jin Yong Yoo, Yanjun Qi*. [[website](https://github.com/QData/TextAttack)] [[doc](https://textattack.readthedocs.io/)] [[pdf](https://arxiv.org/pdf/2005.05909)] 
 
 ## 1. Survey Papers
 
