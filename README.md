@@ -53,6 +53,8 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
+1. **BERT-ATTACK: Adversarial Attack Against BERT Using BERT**. *Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue, Xipeng Qiu*. EMNLP 2020. `score` [[pdf](https://arxiv.org/pdf/2004.09984.pdf)][[code](https://github.com/LinyangLee/BERT-Attack)]
+1. **BAE: BERT-based Adversarial Examples for Text Classification**. *Siddhant Garg, Goutham Ramakrishnan*. EMNLP 2020. `score` [[pdf](https://arxiv.org/pdf/2004.01970.pdf)]
 1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. `score` [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
 1. **It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations**. *Samson Tan, Shafiq Joty, Min-Yen Kan, Richard Socher*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.263.pdf)] [[code](https://github.com/salesforce/morpheus)]
 1. **On the Robustness of Language Encoders against Grammatical Errors**. *Fan Yin, Quanyu Long, Tao Meng, Kai-Wei Chang*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.310.pdf)] [[code](https://github.com/uclanlp/ProbeGrammarRobustness)]
@@ -87,6 +89,7 @@ Each paper is attached to one or more following labels indicating how much infor
 *Yonatan Belinkov, Yonatan Bisk*. ICLR 2018. `blind` [[pdf](https://arxiv.org/pdf/1711.02173.pdf)] [[code&data](https://github.com/ybisk/charNMT-noise)]
 
 ### 2.4 Multi-level Attack
+1. **T3: Tree-Autoencoder Constrained Adversarial Text Generation for Targeted Attack**. *Boxin Wang, Hengzhi Pei, Boyuan Pan, Qian Chen, Shuohang Wang, Bo Li*. EMNLP 2020. `gradient` [[pdf](https://arxiv.org/abs/1912.10375)] [[code](https://github.com/AI-secure/T3)]
 1. **Universal Adversarial Triggers for Attacking and Analyzing NLP**. *Eric Wallace, Shi Feng, Nikhil Kandpal, Matt Gardner, Sameer Singh*. EMNLP-IJCNLP 2019. `gradient` [[pdf](https://arxiv.org/pdf/1908.07125.pdf)] [[code](https://github.com/Eric-Wallace/universal-triggers)] [[website](http://www.ericswallace.com/triggers)]
 1. **TEXTBUGGER: Generating Adversarial Text Against Real-world Applications**. *Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li, Ting Wang*. NDSS 2019. `gradient` `score` [[pdf](https://arxiv.org/pdf/1812.05271.pdf)]
 1. **Generating Black-Box Adversarial Examples for Text Classifiers Using a Deep Reinforced Model**.
