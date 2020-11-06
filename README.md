@@ -2,7 +2,9 @@
 
 ![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-65-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-Contributed by Fanchao Qi, Chenghao Yang and Yuan Zang.
+Mainly Contributed and Maintained by Fanchao Qi, Chenghao Yang and Yuan Zang. 
+
+Great thanks to other contributors Di Jin, Boxin Wang and Jingkang Wang! (names are not listed in particular order)
 
 ### Contents
 
