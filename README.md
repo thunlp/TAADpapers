@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-68-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-70-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Mainly Contributed and Maintained by Fanchao Qi, Chenghao Yang and Yuan Zang. 
 
@@ -22,7 +22,7 @@ Great thanks to other contributors Di Jin, Boxin Wang and Jingkang Wang! (names 
 
 
 ## 0. Toolkits
-1. **OpenAttack**. *Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, Bairu Hou, Yuan Zang, Zhiyuan Liu, Maosong Sun*. [[website](https://github.com/thunlp/OpenAttack)] [[doc](https://openattack.readthedocs.io/)]
+1. **OpenAttack**. *Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, Bairu Hou, Yuan Zang, Zhiyuan Liu, Maosong Sun*. [[website](https://github.com/thunlp/OpenAttack)] [[doc](https://openattack.readthedocs.io/)] [[pdf](https://arxiv.org/pdf/2009.09191)]
 1. **TextAttack**. *John X. Morris, Eli Liﬂand, Jin Yong Yoo, Yanjun Qi*. [[website](https://github.com/QData/TextAttack)] [[doc](https://textattack.readthedocs.io/)] [[pdf](https://arxiv.org/pdf/2005.05909)] 
 
 ## 1. Survey Papers
@@ -55,9 +55,9 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
-1. **Robustness to Modification with Shared Words in Paraphrase Identification**. *Zhouxing Shi, and Minlie Huang*. Findings of EMNLP 2020. `score` [[pdf](https://arxiv.org/pdf/1909.02560.pdf)] 
-1. **BERT-ATTACK: Adversarial Attack Against BERT Using BERT**. *Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue, Xipeng Qiu*. EMNLP 2020. `score` [[pdf](https://arxiv.org/pdf/2004.09984.pdf)][[code](https://github.com/LinyangLee/BERT-Attack)]
+1. **BERT-ATTACK: Adversarial Attack Against BERT Using BERT**. *Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue, Xipeng Qiu*. EMNLP 2020. `score` [[pdf](https://arxiv.org/pdf/2004.09984.pdf)] [[code](https://github.com/LinyangLee/BERT-Attack)]
 1. **BAE: BERT-based Adversarial Examples for Text Classification**. *Siddhant Garg, Goutham Ramakrishnan*. EMNLP 2020. `score` [[pdf](https://arxiv.org/pdf/2004.01970.pdf)]
+1. **Robustness to Modification with Shared Words in Paraphrase Identification**. *Zhouxing Shi, and Minlie Huang*. Findings of ACL: EMNLP 2020. `score` [[pdf](https://arxiv.org/pdf/1909.02560.pdf)] 
 1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. `score` [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
 1. **It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations**. *Samson Tan, Shafiq Joty, Min-Yen Kan, Richard Socher*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.263.pdf)] [[code](https://github.com/salesforce/morpheus)]
 1. **On the Robustness of Language Encoders against Grammatical Errors**. *Fan Yin, Quanyu Long, Tao Meng, Kai-Wei Chang*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.310.pdf)] [[code](https://github.com/uclanlp/ProbeGrammarRobustness)]
