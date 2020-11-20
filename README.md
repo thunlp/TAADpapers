@@ -113,7 +113,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack**. *Emily Dinan, Samuel Humeau, Bharath Chintagunta, Jason Weston*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1461.pdf)] [[data](https://parl.ai/projects/dialogue_safety/)]
 1. **Combating Adversarial Misspellings with Robust Word Recognition**. *Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
 1. **Robust-to-Noise Models in Natural Language Processing Tasks**. *Valentin Malykh*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-2002.pdf)] [[code](https://gitlab.com/madrugado/robust-w2v)]
-1. **Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding**. *Samson Tan, Shafiq Joty§, Lav R. Varshney, Min-Yen Kan*. EMNLP 2020. [[pdf](https://arxiv.org/pdf/2004.14870.pdf)]
+1. **Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding**. *Samson Tan, Shafiq Joty, Lav R. Varshney, Min-Yen Kan*. EMNLP 2020. [[pdf](https://arxiv.org/pdf/2004.14870.pdf)]
 
 
 ## 4. Certified Robustness
