@@ -4,7 +4,7 @@
 
 Mainly Contributed and Maintained by Fanchao Qi, Chenghao Yang and Yuan Zang. 
 
-Great thanks to other contributors Di Jin, Boxin Wang and Jingkang Wang! (names are not listed in particular order)
+Thanks for all great [contributors](#acknowledgements) on GitHub!
 
 ### Contents
 
@@ -19,6 +19,7 @@ Great thanks to other contributors Di Jin, Boxin Wang and Jingkang Wang! (names 
 * [4. Certified Robustness](#4-certified-robustness)
 * [5. Benchmark and Evaluation](#5-benchmark-and-evaluation)
 * [6. Other Papers](#6-other-papers)
+* [Acknowledgements](#acknowledgements)
 
 
 ## 0. Toolkits
@@ -41,7 +42,9 @@ Great thanks to other contributors Di Jin, Boxin Wang and Jingkang Wang! (names 
 Each paper is attached to one or more following labels indicating how much information the **attack model** knows about the **victim model**: `gradient` (=`white`, all information), `score` (output decision and scores), `decision` (only output decision) and `blind` (nothing)
 
 ### 2.1 Sentence-level Attack
-
+1. **CAT-Gen: Improving Robustness in NLP Models via Controlled Adversarial Text Generation**. *Tianlu Wang, Xuezhi Wang, Yao Qin, Ben Packer, Kang Lee, Jilin Chen, Alex Beutel, Ed Chi*. EMNLP 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.417.pdf)]
+1. **Adversarial Attack and Defense of Structured Prediction Models**. *Wenjuan Han, Liwen Zhang, Yong Jiang, Kewei Tu*. EMNLP 2020. `blind` [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.182.pdf)] [[code](https://github.com/WinnieHAN/structure_adv)]
+1. **MALCOM: Generating Malicious Comments to Attack Neural Fake News Detection Models**. *Thai Le, Suhang Wang, Dongwon Lee*. ICDM 2020. `gradient` [[pdf](https://arxiv.org/pdf/2009.01048.pdf)] [[code](https://github.com/lethaiq/MALCOM)]
 1. **Improving the Robustness of Question Answering Systems to Question Paraphrasing**. *Wee Chung Gan, Hwee Tou Ng*. ACL 2019. `blind` [[pdf](https://www.aclweb.org/anthology/P19-1610.pdf)] [[data](https://github.com/nusnlp/paraphrasing-squad)]
 1. **Trick Me If You Can: Human-in-the-Loop Generation of Adversarial Examples for Question Answering**. *Eric Wallace, Pedro Rodriguez, Shi Feng, Ikuya Yamada, Jordan Boyd-Graber*. TACL 2019. `score` [[pdf](https://www.aclweb.org/anthology/Q19-1029.pdf)]
 1. **PAWS: Paraphrase Adversaries from Word Scrambling**. *Yuan Zhang, Jason Baldridge, Luheng He*. NAACL-HLT 2019. `blind` [[pdf](https://www.aclweb.org/anthology/N19-1131.pdf)] [[dataset](https://g.co/dataset/paws)]
@@ -55,10 +58,11 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
-1. **BERT-ATTACK: Adversarial Attack Against BERT Using BERT**. *Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue, Xipeng Qiu*. EMNLP 2020. `score` [[pdf](https://arxiv.org/pdf/2004.09984.pdf)] [[code](https://github.com/LinyangLee/BERT-Attack)]
-1. **BAE: BERT-based Adversarial Examples for Text Classification**. *Siddhant Garg, Goutham Ramakrishnan*. EMNLP 2020. `score` [[pdf](https://arxiv.org/pdf/2004.01970.pdf)]
-1. **Robustness to Modification with Shared Words in Paraphrase Identification**. *Zhouxing Shi, and Minlie Huang*. Findings of ACL: EMNLP 2020. `score` [[pdf](https://arxiv.org/pdf/1909.02560.pdf)] 
-1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. `score` [[pdf](https://arxiv.org/pdf/1910.12196.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
+1. **Generating Natural Language Attacks in a Hard Label Black Box Setting**。 *Rishabh Maheshwary, Saket Maheshwary and Vikram Pudi*. AAAI 2021. `decision` [[pdf](https://arxiv.org/pdf/2012.14956.pdf)] [[code](https://github.com/RishabhMaheshwary/hard-label-attack)]
+1. **BERT-ATTACK: Adversarial Attack Against BERT Using BERT**. *Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue, Xipeng Qiu*. EMNLP 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.500.pdf)] [[code](https://github.com/LinyangLee/BERT-Attack)]
+1. **BAE: BERT-based Adversarial Examples for Text Classification**. *Siddhant Garg, Goutham Ramakrishnan*. EMNLP 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.498.pdf)]
+1. **Robustness to Modification with Shared Words in Paraphrase Identification**. *Zhouxing Shi, and Minlie Huang*. Findings of ACL: EMNLP 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.16.pdf)] 
+1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.540.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
 1. **It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations**. *Samson Tan, Shafiq Joty, Min-Yen Kan, Richard Socher*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.263.pdf)] [[code](https://github.com/salesforce/morpheus)]
 1. **On the Robustness of Language Encoders against Grammatical Errors**. *Fan Yin, Quanyu Long, Tao Meng, Kai-Wei Chang*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.310.pdf)] [[code](https://github.com/uclanlp/ProbeGrammarRobustness)]
 1. **Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples**. *Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng, Xuanjing Huang*. ACL 2020. `gradient` `score`  [[pdf](https://www.aclweb.org/anthology/2020.acl-main.590.pdf)] [[code](https://github.com/zjiehang/DPAttack)]
@@ -103,7 +107,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension**. *Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu*. CoNLL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/K18-1011)] [[code](https://github.com/DigitalPhonetics/reading-comprehension)]
 
 ## 3. Defense Papers
-
+1. **Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding**. *Samson Tan, Shafiq Joty, Lav R. Varshney, Min-Yen Kan*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.455v2.pdf)] [[code](https://github.com/salesforce/bite)]
 1. **Robust Encodings: A Framework for Combating Adversarial Typos**. *Erik Jones, Robin Jia, Aditi Raghunathan, Percy Liang*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.245.pdf)] [[code](https://worksheets.codalab.org/worksheets/0x8fc01c7fc2b742fdb29c05669f0ad7d2)]
 1. **Joint Character-level Word Embedding and Adversarial Stability Training to Defend Adversarial Text**. *Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, Yige Chen*. AAAI 2020. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuH.1396.pdf)]
 1. **A Robust Adversarial Training Approach to Machine Reading Comprehension**. *Kai Liu, Xin Liu, An Yang, Jing Liu, Jinsong Su, Sujian Li, Qiaoqiao She*. AAAI 2020. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuK.6841.pdf)]
@@ -126,8 +130,9 @@ Each paper is attached to one or more following labels indicating how much infor
 
 
 ## 5. Benchmark and Evaluation
-1. **Adversarial NLI: A New Benchmark for Natural Language Understanding**. *Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston, Douwe Kiela*. ACL 2020. [[pdf](https://arxiv.org/abs/1910.14599)] [[demo](https://www.adversarialnli.com/)] [[dataset&leaderboard](https://github.com/facebookresearch/anli/)]
-1. **Evaluating NLP Models via Contrast Sets**. *Matt Gardner, Yoav Artzi, Victoria Basmova, Jonathan Berant, Ben Bogin, Sihao Chen, Pradeep Dasigi, Dheeru Dua, Yanai Elazar, Ananth Gottumukkala, Nitish Gupta, Hanna Hajishirzi, Gabriel Ilharco, Daniel Khashabi, Kevin Lin, Jiangming Liu, Nelson F. Liu, Phoebe Mulcaire, Qiang Ning, Sameer Singh, Noah A. Smith, Sanjay Subramanian, Reut Tsarfaty, Eric Wallace, Ally Zhang, Ben Zhou*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2004.02709.pdf)] [[website](https://allennlp.org/contrast-sets)]
+1. **From Hero to Zéroe: A Benchmark of Low-Level Adversarial Attacks**. *Steffen Eger, Yannik Benz*. AACL-IJCNLP 2020. [[pdf](https://arxiv.org/pdf/2010.05648.pdf)] [[code & data](https://github.com/yannikbenz/zeroe)]
+1. **Adversarial NLI: A New Benchmark for Natural Language Understanding**. *Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston, Douwe Kiela*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.441.pdf)] [[demo](https://www.adversarialnli.com/)] [[dataset & leaderboard](https://github.com/facebookresearch/anli/)]
+1. **Evaluating NLP Models via Contrast Sets**. *Matt Gardner, Yoav Artzi, Victoria Basmova, Jonathan Berant, Ben Bogin, Sihao Chen, Pradeep Dasigi, Dheeru Dua, Yanai Elazar, Ananth Gottumukkala, Nitish Gupta, Hanna Hajishirzi, Gabriel Ilharco, Daniel Khashabi, Kevin Lin, Jiangming Liu, Nelson F. Liu, Phoebe Mulcaire, Qiang Ning, Sameer Singh, Noah A. Smith, Sanjay Subramanian, Reut Tsarfaty, Eric Wallace, Ally Zhang, Ben Zhou*. Findings of ACL: EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.117.pdf)] [[website](https://allennlp.org/contrast-sets)]
 1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models**. *Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino*. NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1314)] [[code](https://github.com/pmichel31415/teapot-nlp)]
 
 ## 6. Other Papers
@@ -137,3 +142,9 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples**. *Dongyeop Kang, Tushar Khot, Ashish Sabharwal, Eduard Hovy*. ACL 2018. [[pdf](https://www.aclweb.org/anthology/P18-1225)] [[code](https://github.com/dykang/adventure)]
 1. **Learning Visually-Grounded Semantics from Contrastive Adversarial Samples**. *Haoyue Shi, Jiayuan Mao, Tete Xiao, Yuning Jiang, Jian Sun*. COLING 2018.
 [[pdf](https://aclweb.org/anthology/C18-1315)] [[code](https://github.com/ExplorerFreda/VSE-C)]
+
+## Acknowledgements
+
+Great thanks to other contributors Di Jin, Boxin Wang, Jingkang Wang, Chenglei Si, Thai Le, Rishabh Maheshwary, Jiayuan Mao! (names are not listed in particular order)
+
+Please contact us if we miss your names in this list, we will add you back ASAP!
