@@ -107,6 +107,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension**. *Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu*. CoNLL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/K18-1011)] [[code](https://github.com/DigitalPhonetics/reading-comprehension)]
 
 ## 3. Defense Papers
+1. **InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective**. *Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu*. ICLR 2021. [[pdf](https://openreview.net/pdf?id=hpH98mK5Puk)] [[code](https://github.com/AI-secure/InfoBERT)]
 1. **Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding**. *Samson Tan, Shafiq Joty, Lav R. Varshney, Min-Yen Kan*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.455v2.pdf)] [[code](https://github.com/salesforce/bite)]
 1. **Robust Encodings: A Framework for Combating Adversarial Typos**. *Erik Jones, Robin Jia, Aditi Raghunathan, Percy Liang*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.245.pdf)] [[code](https://worksheets.codalab.org/worksheets/0x8fc01c7fc2b742fdb29c05669f0ad7d2)]
 1. **Joint Character-level Word Embedding and Adversarial Stability Training to Defend Adversarial Text**. *Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, Yige Chen*. AAAI 2020. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuH.1396.pdf)]
