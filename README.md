@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-81-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-82-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 Mainly Contributed and Maintained by Fanchao Qi, Chenghao Yang and Yuan Zang. 
 
@@ -111,7 +111,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ## 3. Defense Papers
 1. **Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples**. *Maximilian Mozes, Pontus Stenetorp, Bennett Kleinberg, Lewis D. Griffin*. EACL 2021. [[pdf](https://arxiv.org/pdf/2004.05887)] [[code](https://github.com/maximilianmozes/fgws)]
-1. **TOWARDS ROBUSTNESS AGAINST NATURAL LANGUAGE WORD SUBSTITUTIONS.**  *Xinshuai Dong, Anh Tuan Luu, Rongrong Ji, Hong Liu.* ICLR 2021. [[pdf](https://openreview.net/pdf?id=ks5nebunVn_)] [[code](https://github.com/dongxinshuai/ASCC)]
+1. **Towards Robustness Against Natural Language Word Substitutions.**  *Xinshuai Dong, Anh Tuan Luu, Rongrong Ji, Hong Liu.* ICLR 2021. [[pdf](https://openreview.net/pdf?id=ks5nebunVn_)] [[code](https://github.com/dongxinshuai/ASCC)]
 1. **InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective**. *Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu*. ICLR 2021. [[pdf](https://openreview.net/pdf?id=hpH98mK5Puk)] [[code](https://github.com/AI-secure/InfoBERT)]
 1. **Mind Your Inflections! Improving NLP for Non-Standard Englishes with Base-Inflection Encoding**. *Samson Tan, Shafiq Joty, Lav R. Varshney, Min-Yen Kan*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.455v2.pdf)] [[code](https://github.com/salesforce/bite)]
 1. **Robust Encodings: A Framework for Combating Adversarial Typos**. *Erik Jones, Robin Jia, Aditi Raghunathan, Percy Liang*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.245.pdf)] [[code](https://worksheets.codalab.org/worksheets/0x8fc01c7fc2b742fdb29c05669f0ad7d2)]
