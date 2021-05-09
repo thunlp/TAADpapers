@@ -110,6 +110,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension**. *Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu*. CoNLL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/K18-1011)] [[code](https://github.com/DigitalPhonetics/reading-comprehension)]
 
 ## 3. Defense Papers
+1. **A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger’s Adversarial Attacks**. *Thai Le, Noseong Park, Dongwon Lee*. ACL 2021. [[pdf](https://arxiv.org/abs/2011.10492)] [[code](https://github.com/lethaiq/ACL2021-DARCY-HoneypotDefenseNLP)]
 1. **Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples**. *Maximilian Mozes, Pontus Stenetorp, Bennett Kleinberg, Lewis D. Griffin*. EACL 2021. [[pdf](https://arxiv.org/pdf/2004.05887)] [[code](https://github.com/maximilianmozes/fgws)]
 1. **Towards Robustness Against Natural Language Word Substitutions.**  *Xinshuai Dong, Anh Tuan Luu, Rongrong Ji, Hong Liu.* ICLR 2021. [[pdf](https://openreview.net/pdf?id=ks5nebunVn_)] [[code](https://github.com/dongxinshuai/ASCC)]
 1. **InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective**. *Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu*. ICLR 2021. [[pdf](https://openreview.net/pdf?id=hpH98mK5Puk)] [[code](https://github.com/AI-secure/InfoBERT)]
