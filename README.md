@@ -109,7 +109,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ## 3. Defense Papers
 1. **A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger’s Adversarial Attacks**. *Thai Le, Noseong Park, Dongwon Lee*. ACL 2021. [[pdf](https://arxiv.org/abs/2011.10492)] [[code](https://github.com/lethaiq/ACL2021-DARCY-HoneypotDefenseNLP)]
-1. **Better Robustness by More Coverage: Adversarial Training with Mixup Augmentation for Robust Fine-tuning**. *Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2012.15699)] [[code](https://github.com/thunlp/MixADA)] 
+1. **Better Robustness by More Coverage: Adversarial Training with Mixup Augmentation for Robust Fine-tuning**. *Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun*. ACL 2021 (Findings). [[pdf](https://arxiv.org/pdf/2012.15699)] [[code](https://github.com/thunlp/MixADA)] 
 1. **Natural Language Adversarial Defense through Synonym Encoding**. *Xiaosen Wang, Hao Jin, Kun He*. UAI 2021. [[pdf](https://arxiv.org/pdf/1909.06723)] [[code](https://github.com/JHL-HUST/SEM)]
 1. **Adversarial Training with Fast Gradient Projection Method against Synonym Substitution based Text Attacks**. *Xiaosen Wang, Yichen Yang, Yihe Deng, Kun He*. AAAI 2021. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17648/17455)] [[code](https://github.com/JHL-HUST/FGPM)]
 1. **Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples**. *Maximilian Mozes, Pontus Stenetorp, Bennett Kleinberg, Lewis D. Griffin*. EACL 2021. [[pdf](https://arxiv.org/pdf/2004.05887)] [[code](https://github.com/maximilianmozes/fgws)]
