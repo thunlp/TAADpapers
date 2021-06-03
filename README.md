@@ -129,6 +129,8 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ## 4. Certified Robustness
 
+1. **Automatic Perturbation Analysis for Scalable Certified Robustness and Beyond**.
+*Kaidi Xu, Zhouxing Shi, Huan Zhang, Yihan Wang, Kai-Wei Chang, Minlie Huang, Bhavya Kailkhura, Xue Lin, Cho-Jui Hsieh*. NeurIPS 2020. [[pdf](https://proceedings.neurips.cc/paper/2020/file/0cbc5671ae26f67871cb914d81ef8fc1-Paper.pdf)] [[code](https://github.com/kaidixu/auto_LiRPA)]
 1. **SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions**.
 *Mao Ye, Chengyue Gong, Qiang Liu*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.317.pdf)] [[code](https://github.com/lushleaf/Structure-free-certified-NLP)]
 1. **Robustness Verification for Transformers**. *Zhouxing Shi, Huan Zhang, Kai-Wei Chang, Minlie Huang, Cho-Jui Hsieh*. ICLR 2020. [[pdf](https://arxiv.org/pdf/2002.06622.pdf)] [[code](https://github.com/shizhouxing/Robustness-Verification-for-Transformers)]
