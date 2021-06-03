@@ -54,6 +54,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Examples for Evaluating Reading Comprehension Systems**. *Robin Jia, Percy Liang*. EMNLP 2017. `score` `decision` `blind` [[pdf](https://www.aclweb.org/anthology/D17-1215)] [[code](https://github.com/robinjia/adversarial-squad)]
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
+
 ### 2.2 Word-level Attack
 1. **Contextualized Perturbation for Textual Adversarial Attack**. *Dianqi Li, Yizhe Zhang, Hao Peng, Liqun Chen, Chris Brockett, Ming-Ting Sun, Bill Dolan*. NAACL 2021. `score` [[pdf](https://arxiv.org/pdf/2009.07502.pdf)] [[code](https://github.com/cookielee77/CLARE)]
 1. **Generating Natural Language Attacks in a Hard Label Black Box Setting**. *Rishabh Maheshwary, Saket Maheshwary, Vikram Pudi*. AAAI 2021. `decision` [[pdf](https://arxiv.org/pdf/2012.14956.pdf)] [[code](https://github.com/RishabhMaheshwary/hard-label-attack)]
@@ -107,6 +108,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ## 3. Defense Papers
 1. **A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger’s Adversarial Attacks**. *Thai Le, Noseong Park, Dongwon Lee*. ACL 2021. [[pdf](https://arxiv.org/abs/2011.10492)] [[code](https://github.com/lethaiq/ACL2021-DARCY-HoneypotDefenseNLP)]
+1. **Better Robustness by More Coverage: Adversarial Training with Mixup Augmentation for Robust Fine-tuning**. *Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun*. ACL 2021 (Findings). [[pdf](https://arxiv.org/pdf/2012.15699)] [[code](https://github.com/thunlp/MixADA)] 
 1. **Natural Language Adversarial Defense through Synonym Encoding**. *Xiaosen Wang, Hao Jin, Kun He*. UAI 2021. [[pdf](https://arxiv.org/pdf/1909.06723)] [[code](https://github.com/JHL-HUST/SEM)]
 1. **Adversarial Training with Fast Gradient Projection Method against Synonym Substitution based Text Attacks**. *Xiaosen Wang, Yichen Yang, Yihe Deng, Kun He*. AAAI 2021. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17648/17455)] [[code](https://github.com/JHL-HUST/FGPM)]
 1. **Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples**. *Maximilian Mozes, Pontus Stenetorp, Bennett Kleinberg, Lewis D. Griffin*. EACL 2021. [[pdf](https://arxiv.org/pdf/2004.05887)] [[code](https://github.com/maximilianmozes/fgws)]
@@ -116,7 +118,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Robust Encodings: A Framework for Combating Adversarial Typos**. *Erik Jones, Robin Jia, Aditi Raghunathan, Percy Liang*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.245.pdf)] [[code](https://worksheets.codalab.org/worksheets/0x8fc01c7fc2b742fdb29c05669f0ad7d2)]
 1. **Joint Character-level Word Embedding and Adversarial Stability Training to Defend Adversarial Text**. *Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, Yige Chen*. AAAI 2020. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuH.1396.pdf)]
 1. **A Robust Adversarial Training Approach to Machine Reading Comprehension**. *Kai Liu, Xin Liu, An Yang, Jing Liu, Jinsong Su, Sujian Li, Qiaoqiao She*. AAAI 2020. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuK.6841.pdf)]
-1. **FreeLB: Enhanced Adversarial Training for Language Understanding**. *Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Tom Goldstein, Jingjing Liu*. CoRR 2019. [[pdf](https://arxiv.org/pdf/1909.11764.pdf)] [[code](https://github.com/zhuchen03/FreeLB)]
+1. **FreeLB: Enhanced Adversarial Training for Language Understanding**. *Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Tom Goldstein, Jingjing Liu*. ICLR 2020. [[pdf](https://arxiv.org/pdf/1909.11764.pdf)] [[code](https://github.com/zhuchen03/FreeLB)]
 1. **Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification**. *Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang, Wei Wang*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1496.pdf)] [[code](https://github.com/joey1993/bert-defender)]
 1. **Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack**. *Emily Dinan, Samuel Humeau, Bharath Chintagunta, Jason Weston*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1461.pdf)] [[data](https://parl.ai/projects/dialogue_safety/)]
 1. **Combating Adversarial Misspellings with Robust Word Recognition**. *Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton*. ACL 2019. [[pdf](https://www.aclweb.org/anthology/P19-1561.pdf)] [[code](https://github.com/danishpruthi/adversarial-misspellings)]
@@ -142,6 +144,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial NLI: A New Benchmark for Natural Language Understanding**. *Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston, Douwe Kiela*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.441.pdf)] [[demo](https://www.adversarialnli.com/)] [[dataset & leaderboard](https://github.com/facebookresearch/anli/)]
 1. **Evaluating NLP Models via Contrast Sets**. *Matt Gardner, Yoav Artzi, Victoria Basmova, Jonathan Berant, Ben Bogin, Sihao Chen, Pradeep Dasigi, Dheeru Dua, Yanai Elazar, Ananth Gottumukkala, Nitish Gupta, Hanna Hajishirzi, Gabriel Ilharco, Daniel Khashabi, Kevin Lin, Jiangming Liu, Nelson F. Liu, Phoebe Mulcaire, Qiang Ning, Sameer Singh, Noah A. Smith, Sanjay Subramanian, Reut Tsarfaty, Eric Wallace, Ally Zhang, Ben Zhou*. Findings of ACL: EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.117.pdf)] [[website](https://allennlp.org/contrast-sets)]
 1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models**. *Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino*. NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1314)] [[code](https://github.com/pmichel31415/teapot-nlp)]
+
 
 ## 6. Other Papers
 
