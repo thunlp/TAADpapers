@@ -1,10 +1,10 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-109-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-110-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is mainly maintained by [Fanchao Qi](https://fanchao-qi.github.io/), [Chenghao Yang](https://yangalan123.github.io/) and [Yuan Zang](https://scholar.google.com/citations?user=Y_IbB6MAAAAJ&hl=zh-CN) from [THUNLP](http://nlp.csai.tsinghua.edu.cn/). 
 
-We thank all the great [contributors](#acknowledgements) very much.
+We thank all the great [contributors](#contributors) very much.
 
 ### Contents
 
@@ -68,6 +68,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **BERT-ATTACK: Adversarial Attack Against BERT Using BERT**. *Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue, Xipeng Qiu*. EMNLP 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.500.pdf)] [[code](https://github.com/LinyangLee/BERT-Attack)]
 1. **BAE: BERT-based Adversarial Examples for Text Classification**. *Siddhant Garg, Goutham Ramakrishnan*. EMNLP 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.498.pdf)] [[code](https://github.com/QData/TextAttack/blob/master/textattack/attack_recipes/bae_garg_2019.py)]
 1. **Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks**. *Denis Emelin, Ivan Titov, Rico Sennrich*. EMNLP 2020. `blind` [[pdf](https://aclanthology.org/2020.emnlp-main.616.pdf)] [[code](http://github.com/demelin/detecting_wsd_biases_for_nmt)]
+1. **Imitation Attacks and Defenses for Black-box Machine Translation Systems**. *Eric Wallace, Mitchell Stern, Dawn Song*. EMNLP 2020. `decision` [[pdf](https://aclanthology.org/2020.emnlp-main.446.pdf)] [[code](https://github.com/Eric-Wallace/adversarial-mt)]
 1. **Robustness to Modification with Shared Words in Paraphrase Identification**. *Zhouxing Shi, Minlie Huang*. Findings of ACL: EMNLP 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.16.pdf)] 
 1. **Word-level Textual Adversarial Attacking as Combinatorial Optimization**. *Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu, Maosong Sun*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.540.pdf)] [[code](https://github.com/thunlp/SememePSO-Attack)]
 1. **It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations**. *Samson Tan, Shafiq Joty, Min-Yen Kan, Richard Socher*. ACL 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.acl-main.263.pdf)] [[code](https://github.com/salesforce/morpheus)]
