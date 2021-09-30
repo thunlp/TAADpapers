@@ -57,6 +57,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
+1. **A Strong Baseline for Query Efficient Attacks in a Black Box Setting**. Rishabh Maheswary, Saket Maheshwary and Vikram Pudi. EMNLP-2021. ```score``` [[pdf](https://arxiv.org/abs/2109.04775)] [[code](https://github.com/rishabhmaheshwary/query-attack)]
 1. **Crafting Adversarial Examples for Neural Machine Translation**. *Xinze Zhang, Junzhe Zhang, Zhenhua Chen, Kun He*. ACL-IJCNLP 2021. `score` [[pdf](https://aclanthology.org/2021.acl-long.153.pdf)] [[code](https://github.com/JHL-HUST/AdvNMT-WSLS/)]
 1. **An Empirical Study on Adversarial Attack on NMT: Languages and Positions Matter**. *Zhiyuan Zeng, Deyi Xiong*. ACL-IJCNLP 2021. `score` [[pdf](https://aclanthology.org/2021.acl-short.58.pdf)]
 1. **A Closer Look into the Robustness of Neural Dependency Parsers Using Better Adversarial Examples**. *Yuxuan Wang, Wanxiang Che, Ivan Titov, Shay B. Cohen, Zhilin Lei, Ting Liu*. Findings of ACL: ACL-IJCNLP 2021. `score` [[pdf](https://aclanthology.org/2021.findings-acl.207.pdf)] [[code](https://github.com/WangYuxuan93/DepAttacker.git)]
