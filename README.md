@@ -25,6 +25,7 @@ We thank all the great [contributors](#contributors) very much.
 ## 0. Toolkits
 1. **OpenAttack: An Open-source Textual Adversarial Attack Toolkit**. *Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, Bairu Hou, Yuan Zang, Zhiyuan Liu, Maosong Sun*. ACL-IJCNLP 2021 Demo. [[website](https://github.com/thunlp/OpenAttack)] [[doc](https://openattack.readthedocs.io/)] [[pdf](https://aclanthology.org/2021.acl-demo.43.pdf)]
 1. **TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP**. *John Morris, Eli Lifland, Jin Yong Yoo, Jake Grigsby, Di Jin, Yanjun Qi*. EMNLP 2020 Demo. [[website](https://github.com/QData/TextAttack)] [[doc](https://textattack.readthedocs.io/)] [[pdf](https://www.aclweb.org/anthology/2020.emnlp-demos.16.pdf)] 
+1. **SeqAttack: On Adversarial Attacks for Named Entity Recognition**. *Walter Simoncini, Gerasimos Spanakis*. EMNLP 2021 Demo. [[website](https://github.com/WalterSimoncini/SeqAttack)] [[pdf](https://aclanthology.org/2021.emnlp-demo.35.pdf)]
 
 ## 1. Survey Papers
 
@@ -58,8 +59,8 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
-1. **A Strong Baseline for Query Efficient Attacks in a Black Box Setting**. *Rishabh Maheswary, Saket Maheshwary and Vikram Pudi. EMNLP 2021*. ```score``` [[pdf](https://arxiv.org/abs/2109.04775)] [[code](https://github.com/rishabhmaheshwary/query-attack)]
-1. **On the Transferability of Adversarial Attacks against Neural Text Classifier**. *Liping Yuan, Xiaoqing Zheng, Yi Zhou, Cho-Jui Hsieh, Kai-Wei Chang*.  [[pdf](https://arxiv.org/pdf/2011.08558.pdf)]
+1. **A Strong Baseline for Query Efficient Attacks in a Black Box Setting**. *Rishabh Maheswary, Saket Maheshwary and Vikram Pudi*. EMNLP 2021. `score` [[pdf](https://arxiv.org/abs/2109.04775)] [[code](https://github.com/rishabhmaheshwary/query-attack)]
+1. **On the Transferability of Adversarial Attacks against Neural Text Classifier**. *Liping Yuan, Xiaoqing Zheng, Yi Zhou, Cho-Jui Hsieh, Kai-Wei Chang*. EMNLP 2021. [[pdf](https://arxiv.org/pdf/2011.08558.pdf)]
 1. **Crafting Adversarial Examples for Neural Machine Translation**. *Xinze Zhang, Junzhe Zhang, Zhenhua Chen, Kun He*. ACL-IJCNLP 2021. `score` [[pdf](https://aclanthology.org/2021.acl-long.153.pdf)] [[code](https://github.com/JHL-HUST/AdvNMT-WSLS/)]
 1. **An Empirical Study on Adversarial Attack on NMT: Languages and Positions Matter**. *Zhiyuan Zeng, Deyi Xiong*. ACL-IJCNLP 2021. `score` [[pdf](https://aclanthology.org/2021.acl-short.58.pdf)]
 1. **A Closer Look into the Robustness of Neural Dependency Parsers Using Better Adversarial Examples**. *Yuxuan Wang, Wanxiang Che, Ivan Titov, Shay B. Cohen, Zhilin Lei, Ting Liu*. Findings of ACL: ACL-IJCNLP 2021. `score` [[pdf](https://aclanthology.org/2021.findings-acl.207.pdf)] [[code](https://github.com/WangYuxuan93/DepAttacker.git)]
