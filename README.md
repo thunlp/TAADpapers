@@ -25,14 +25,18 @@ We thank all the great [contributors](#contributors) very much.
 ## 0. Toolkits
 1. **OpenAttack: An Open-source Textual Adversarial Attack Toolkit**. *Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, Bairu Hou, Yuan Zang, Zhiyuan Liu, Maosong Sun*. ACL-IJCNLP 2021 Demo. [[website](https://github.com/thunlp/OpenAttack)] [[doc](https://openattack.readthedocs.io/)] [[pdf](https://aclanthology.org/2021.acl-demo.43.pdf)]
 1. **TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP**. *John Morris, Eli Lifland, Jin Yong Yoo, Jake Grigsby, Di Jin, Yanjun Qi*. EMNLP 2020 Demo. [[website](https://github.com/QData/TextAttack)] [[doc](https://textattack.readthedocs.io/)] [[pdf](https://www.aclweb.org/anthology/2020.emnlp-demos.16.pdf)] 
-1. **SeqAttack: On Adversarial Attacks for Named Entity Recognition**. *Walter Simoncini, Gerasimos Spanakis*. EMNLP 2021 Demo. [[website](https://github.com/WalterSimoncini/SeqAttack)] [[pdf](https://aclanthology.org/2021.emnlp-demo.35.pdf)]
+1. **SeqAttack: On Adversarial Attacks for Named Entity Recognition**. *Walter Simoncini, Gerasimos Spanakis*. EMNLP 2021 Demo. [[							](https://github.com/WalterSimoncini/SeqAttack)] [[pdf](https://aclanthology.org/2021.emnlp-demo.35.pdf)]
 
 ## 1. Survey Papers
-
+1. **Token-Modification Adversarial Attacks for Natural Language Processing: A
+Survey**.*Tom Roth, Yansong Gao, Alsharif Abuadbba, Surya Nepal, Wei Liu.* arXiv 2021. [[pdf](https://arxiv.org/pdf/2103.00676.pdf)]
+1. **A survey on Adversarial Attacks and Defenses in Text**. *Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang, Aoshuang Ye*. arXiv 2020. [[pdf](https://arxiv.org/pdf/1902.07285v2.pdf)]
+1. **Adversarial Attacks and Defense on Texts: A Survey**. *Aminul Huq, Mst. Tasnim Pervin*. arXiv 2020. [[pdf](https://arxiv.org/pdf/2005.14108.pdf)]
 1. **Towards a Robust Deep Neural Network in Texts: A Survey**. *Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang, Aoshuang Ye*. arXiv 2020. [[pdf](https://arxiv.org/pdf/1902.07285.pdf)]
 1. **Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey**. *Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li*. ACM TIST 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3374217)]
 1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review**. *Han Xu, Yao Ma, Hao-chen Liu, Debayan Deb, Hui Liu, Ji-liang Tang, Anil K. Jain*. International Journal of Automation and Computing 2020. [[pdf](https://link.springer.com/content/pdf/10.1007/s11633-019-1211-x.pdf)]
 1. **Analysis Methods in Neural Language Processing: A Survey**. *Yonatan Belinkov, James Glass*. TACL 2019. [[pdf](https://www.aclweb.org/anthology/papers/Q/Q19/Q19-1004/)]
+
 
 ## 2. Attack Papers
 
@@ -70,7 +74,9 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Generating Natural Language Attacks in a Hard Label Black Box Setting**. *Rishabh Maheshwary, Saket Maheshwary, Vikram Pudi*. AAAI 2021. `decision` [[pdf](https://arxiv.org/pdf/2012.14956.pdf)] [[code](https://github.com/RishabhMaheshwary/hard-label-attack)]
 1. **A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples**. *Zhao Meng, Roger Wattenhofer*. COLING 2020. `gradient` [[pdf](https://www.aclweb.org/anthology/2020.coling-main.585.pdf)] [[code](https://github.com/zhaopku/nlp_geometry_attack)]
 1. **BERT-ATTACK: Adversarial Attack Against BERT Using BERT**. *Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue, Xipeng Qiu*. EMNLP 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.500.pdf)] [[code](https://github.com/LinyangLee/BERT-Attack)]
-1. **BAE: BERT-based Adversarial Examples for Text Classification**. *Siddhant Garg, Goutham Ramakrishnan*. EMNLP 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.498.pdf)] [[code](https://github.com/QData/TextAttack/blob/master/textattack/attack_recipes/bae_garg_2019.py)]
+1. **BERT-ATTACK: Adversarial Attack Against BERT Using BERT**. *Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue, Xipeng Qiu*. EMNLP 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.500.pdf)] [[code](https://github.com/LinyangLee/BERT-Attack)]
+1. **Adv-BERT: BERT is not robust on misspellings! Generating nature adversarial samples on BERT**. *Lichao Sun∗
+, Kazuma Hashimoto, Wenpeng Yin,Akari Asai, Jia Li, Philip Yu and Caiming Xiong*. arXiv 2020. `score` [[pdf](https://arxiv.org/pdf/2003.04985.pdf)] 
 1. **Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks**. *Denis Emelin, Ivan Titov, Rico Sennrich*. EMNLP 2020. `blind` [[pdf](https://aclanthology.org/2020.emnlp-main.616.pdf)] [[code](http://github.com/demelin/detecting_wsd_biases_for_nmt)]
 1. **Imitation Attacks and Defenses for Black-box Machine Translation Systems**. *Eric Wallace, Mitchell Stern, Dawn Song*. EMNLP 2020. `decision` [[pdf](https://aclanthology.org/2020.emnlp-main.446.pdf)] [[code](https://github.com/Eric-Wallace/adversarial-mt)]
 1. **Robustness to Modification with Shared Words in Paraphrase Identification**. *Zhouxing Shi, Minlie Huang*. Findings of ACL: EMNLP 2020. `score` [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.16.pdf)] 
@@ -125,6 +131,8 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension**. *Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu*. CoNLL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/K18-1011)] [[code](https://github.com/DigitalPhonetics/reading-comprehension)]
 
 ## 3. Defense Papers
+1. **RoSearch: Search for Robust Student Architectures When Distilling Pre-trained Language Models.** *Xin Guo, Jianlei Yang, Haoyi Zhou, Xucheng Ye, Jianxin Li*. arXiv 2021. [[pdf](https://arxiv.org/pdf/2106.03613.pdf)]
+1. **TextFirewall: Omni-Defending Against Adversarial Texts in Sentiment Classification.** *Wenqi Wang; Run Wang; Jianpeng Ke; Lina Wang*. IEEE Access. [[pdf](https://ieeexplore.ieee.org/document/9350600?arnumber=9350600)]
 1. **Defense against Synonym Substitution-based Adversarial Attacks via Dirichlet Neighborhood Ensemble**. *Yi Zhou, Xiaoqing Zheng, Cho-Jui Hsieh, Kai-Wei Chang, Xuanjing Huang*. ACL-IJCNLP 2021. [[pdf](https://aclanthology.org/2021.acl-long.426.pdf)]
 1. **A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger’s Adversarial Attacks**. *Thai Le, Noseong Park, Dongwon Lee*. ACL-IJCNLP 2021. [[pdf](https://aclanthology.org/2021.acl-long.296.pdf)] [[code](https://github.com/lethaiq/ACL2021-DARCY-HoneypotDefenseNLP)]
 1. **Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning**. *Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun*. Findings of ACL: ACL-IJCNLP 2021. [[pdf](https://aclanthology.org/2021.findings-acl.137.pdf)] [[code](https://github.com/thunlp/MixADA)]
