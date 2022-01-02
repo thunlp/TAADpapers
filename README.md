@@ -25,7 +25,7 @@ We thank all the great [contributors](#contributors) very much.
 ## 0. Toolkits
 1. **OpenAttack: An Open-source Textual Adversarial Attack Toolkit**. *Guoyang Zeng, Fanchao Qi, Qianrui Zhou, Tingji Zhang, Bairu Hou, Yuan Zang, Zhiyuan Liu, Maosong Sun*. ACL-IJCNLP 2021 Demo. [[website](https://github.com/thunlp/OpenAttack)] [[doc](https://openattack.readthedocs.io/)] [[pdf](https://aclanthology.org/2021.acl-demo.43.pdf)]
 1. **TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP**. *John Morris, Eli Lifland, Jin Yong Yoo, Jake Grigsby, Di Jin, Yanjun Qi*. EMNLP 2020 Demo. [[website](https://github.com/QData/TextAttack)] [[doc](https://textattack.readthedocs.io/)] [[pdf](https://www.aclweb.org/anthology/2020.emnlp-demos.16.pdf)] 
-1. **SeqAttack: On Adversarial Attacks for Named Entity Recognition**. *Walter Simoncini, Gerasimos Spanakis*. EMNLP 2021 Demo. [[							](https://github.com/WalterSimoncini/SeqAttack)] [[pdf](https://aclanthology.org/2021.emnlp-demo.35.pdf)]
+1. **SeqAttack: On Adversarial Attacks for Named Entity Recognition**. *Walter Simoncini, Gerasimos Spanakis*. EMNLP 2021 Demo. [[website](https://github.com/WalterSimoncini/SeqAttack)] [[pdf](https://aclanthology.org/2021.emnlp-demo.35.pdf)]
 
 ## 1. Survey Papers
 1. **Token-Modification Adversarial Attacks for Natural Language Processing: A
