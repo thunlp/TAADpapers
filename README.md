@@ -59,7 +59,8 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
-1. **A Strong Baseline for Query Efficient Attacks in a Black Box Setting**. *Rishabh Maheswary, Saket Maheshwary and Vikram Pudi*. EMNLP 2021. `score` [[pdf](https://arxiv.org/abs/2109.04775)] [[code](https://github.com/rishabhmaheshwary/query-attack)]
+1. **Gradient-based Adversarial Attacks against Text Transformers**. *Chuan Guo, Alexandre Sablayrolles, Hervé Jégou, Douwe Kiela*. EMNLP 2021. `gradient` [[pdf](https://aclanthology.org/2021.emnlp-main.464.pdf)] [[code](https://github.com/facebookresearch/text-adversarial-attack)]
+1. **A Strong Baseline for Query Efficient Attacks in a Black Box Setting**. *Rishabh Maheswary, Saket Maheshwary, Vikram Pudi*. EMNLP 2021. `score` [[pdf](https://arxiv.org/abs/2109.04775)] [[code](https://github.com/rishabhmaheshwary/query-attack)]
 1. **On the Transferability of Adversarial Attacks against Neural Text Classifier**. *Liping Yuan, Xiaoqing Zheng, Yi Zhou, Cho-Jui Hsieh, Kai-Wei Chang*. EMNLP 2021. [[pdf](https://arxiv.org/pdf/2011.08558.pdf)]
 1. **Crafting Adversarial Examples for Neural Machine Translation**. *Xinze Zhang, Junzhe Zhang, Zhenhua Chen, Kun He*. ACL-IJCNLP 2021. `score` [[pdf](https://aclanthology.org/2021.acl-long.153.pdf)] [[code](https://github.com/JHL-HUST/AdvNMT-WSLS/)]
 1. **An Empirical Study on Adversarial Attack on NMT: Languages and Positions Matter**. *Zhiyuan Zeng, Deyi Xiong*. ACL-IJCNLP 2021. `score` [[pdf](https://aclanthology.org/2021.acl-short.58.pdf)]
@@ -111,6 +112,7 @@ Each paper is attached to one or more following labels indicating how much infor
 *Yonatan Belinkov, Yonatan Bisk*. ICLR 2018. `blind` [[pdf](https://arxiv.org/pdf/1711.02173.pdf)] [[code&data](https://github.com/ybisk/charNMT-noise)]
 
 ### 2.4 Multi-level Attack
+1. **Multi-granularity Textual Adversarial Attack with Behavior Cloning**. *Yangyi Chen, Jin Su, Wei Wei*. EMNLP 2021. `blind` [[pdf](https://aclanthology.org/2021.emnlp-main.371.pdf)] [[code](https://github.com/Yangyi-Chen/MAYA)]
 1. **Synthesizing Adversarial Negative Responses for Robust Response Ranking and Evaluation**. *Prakhar Gupta, Yulia Tsvetkov, Jeffrey Bigham*. Findings of ACL: ACL-IJCNLP 2021. `blind` [[pdf](https://aclanthology.org/2021.findings-acl.338.pdf)] [[code](https://github.com/prakharguptaz/Adv_gen_dialogue)]
 1. **Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots**. *Samson Tan, Shafiq Joty*. NAACL-HLT 2021. `score` [[pdf](https://aclanthology.org/2021.naacl-main.282.pdf)] [[code](https://github.com/salesforce/adversarial-polyglots)]
 1. **Universal Adversarial Attacks with Natural Triggers for Text Classification**. *Liwei Song, Xinwei Yu, Hsuan-Tung Peng, Karthik Narasimhan*. NAACL-HLT 2021. `gradient` [[pdf](https://aclanthology.org/2021.naacl-main.291.pdf)] [[code](https://github.com/Hsuan-Tung/universal_attack_natural_trigger)]
@@ -125,6 +127,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension**. *Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu*. CoNLL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/K18-1011)] [[code](https://github.com/DigitalPhonetics/reading-comprehension)]
 
 ## 3. Defense Papers
+1. **Achieving Model Robustness through Discrete Adversarial Training**. *Maor Ivgi, Jonathan Berant*. EMNLP 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.115.pdf)] [[code](https://github.com/Mivg/robust_transformers)]
 1. **Defense against Synonym Substitution-based Adversarial Attacks via Dirichlet Neighborhood Ensemble**. *Yi Zhou, Xiaoqing Zheng, Cho-Jui Hsieh, Kai-Wei Chang, Xuanjing Huang*. ACL-IJCNLP 2021. [[pdf](https://aclanthology.org/2021.acl-long.426.pdf)]
 1. **A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger’s Adversarial Attacks**. *Thai Le, Noseong Park, Dongwon Lee*. ACL-IJCNLP 2021. [[pdf](https://aclanthology.org/2021.acl-long.296.pdf)] [[code](https://github.com/lethaiq/ACL2021-DARCY-HoneypotDefenseNLP)]
 1. **Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning**. *Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun*. Findings of ACL: ACL-IJCNLP 2021. [[pdf](https://aclanthology.org/2021.findings-acl.137.pdf)] [[code](https://github.com/thunlp/MixADA)]
