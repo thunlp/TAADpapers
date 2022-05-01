@@ -171,6 +171,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 
 ## 5. Benchmark and Evaluation
+1. **Interpreting the Robustness of Neural NLP Models to Textual Perturbations.** *Yunxiang Zhang, Liangming Pan, Samson Tan, Min-Yen Kan*. Findings of ACL, 2022. [[pdf](https://arxiv.org/pdf/2110.07159.pdf)]
 1. **Searching for an Effiective Defender: Benchmarking Defense against Adversarial Word Substitution.** *Zongyi Li, Jianhan Xu, Jiehang Zeng, Linyang Li, Xiaoqing Zheng, Qi Zhang, Kai-Wei Chang, and Cho-Jui Hsieh*. EMNLP, 2021. [[pdf](https://arxiv.org/pdf/2108.12777.pdf)]
 1. **Double Perturbation: On the Robustness of Robustness and Counterfactual Bias Evaluation**. *Chong Zhang, Jieyu Zhao, Huan Zhang, Kai-Wei Chang, and Cho-Jui Hsieh* NAACL 2021. [[pdf](https://aclanthology.org/2021.naacl-main.305.pdf)] [[code](https://github.com/chong-z/nlp-second-order-attack)]
 1. **Reevaluating Adversarial Examples in Natural Language**. *John Morris, Eli Lifland, Jack Lanchantin, Yangfeng Ji, Yanjun Qi*. Findings of ACL: EMNLP 2020. [[pdf](https://aclanthology.org/2020.findings-emnlp.341.pdf)] [[code&data](https://github.com/QData/Reevaluating-NLP-Adversarial-Examples)]
