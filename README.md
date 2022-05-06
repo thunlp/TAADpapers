@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-122-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-123-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is mainly maintained by [Fanchao Qi](https://fanchao-qi.github.io/), [Chenghao Yang](https://yangalan123.github.io/) and [Yuan Zang](https://zangy17.github.io/) from [THUNLP](http://nlp.csai.tsinghua.edu.cn/). 
 
@@ -172,7 +172,8 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ## 5. Benchmark and Evaluation
 1. **Interpreting the Robustness of Neural NLP Models to Textual Perturbations.** *Yunxiang Zhang, Liangming Pan, Samson Tan, Min-Yen Kan*. Findings of ACL, 2022. [[pdf](https://arxiv.org/pdf/2110.07159.pdf)]
-1. **Searching for an Effiective Defender: Benchmarking Defense against Adversarial Word Substitution.** *Zongyi Li, Jianhan Xu, Jiehang Zeng, Linyang Li, Xiaoqing Zheng, Qi Zhang, Kai-Wei Chang, and Cho-Jui Hsieh*. EMNLP, 2021. [[pdf](https://arxiv.org/pdf/2108.12777.pdf)]
+1. **Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models.** *Boxin Wang, Chejian Xu, Shuohang Wang, Zhe Gan, Yu Cheng, Jianfeng Gao, Ahmed Hassan Awadallah, Bo Li*. NeurIPS 2021 (Datasets and Benchmarks Track). [[pdf](https://arxiv.org/pdf/2111.02840.pdf)] [[website](https://adversarialglue.github.io/)]
+1. **Searching for an Effiective Defender: Benchmarking Defense against Adversarial Word Substitution.** *Zongyi Li, Jianhan Xu, Jiehang Zeng, Linyang Li, Xiaoqing Zheng, Qi Zhang, Kai-Wei Chang, and Cho-Jui Hsieh*. EMNLP 2021. [[pdf](https://arxiv.org/pdf/2108.12777.pdf)]
 1. **Double Perturbation: On the Robustness of Robustness and Counterfactual Bias Evaluation**. *Chong Zhang, Jieyu Zhao, Huan Zhang, Kai-Wei Chang, and Cho-Jui Hsieh* NAACL 2021. [[pdf](https://aclanthology.org/2021.naacl-main.305.pdf)] [[code](https://github.com/chong-z/nlp-second-order-attack)]
 1. **Reevaluating Adversarial Examples in Natural Language**. *John Morris, Eli Lifland, Jack Lanchantin, Yangfeng Ji, Yanjun Qi*. Findings of ACL: EMNLP 2020. [[pdf](https://aclanthology.org/2020.findings-emnlp.341.pdf)] [[code&data](https://github.com/QData/Reevaluating-NLP-Adversarial-Examples)]
 1. **From Hero to Zéroe: A Benchmark of Low-Level Adversarial Attacks**. *Steffen Eger, Yannik Benz*. AACL-IJCNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.aacl-main.79.pdf)] [[code&data](https://github.com/yannikbenz/zeroe)]
