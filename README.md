@@ -59,6 +59,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
+1. **SemAttack: Natural Textual Attacks on Different Semantic Spaces**. *Boxin Wang, Chejian Xu, Xiangyu Liu, Yu Cheng, Bo Li*. Findings of NAACL 2022. `gradient` [[pdf](https://arxiv.org/abs/2205.01287)] [[code](https://github.com/AI-secure/SemAttack)]
 1. **Gradient-based Adversarial Attacks against Text Transformers**. *Chuan Guo, Alexandre Sablayrolles, Hervé Jégou, Douwe Kiela*. EMNLP 2021. `gradient` [[pdf](https://aclanthology.org/2021.emnlp-main.464.pdf)] [[code](https://github.com/facebookresearch/text-adversarial-attack)]
 1. **A Strong Baseline for Query Efficient Attacks in a Black Box Setting**. *Rishabh Maheswary, Saket Maheshwary, Vikram Pudi*. EMNLP 2021. `score` [[pdf](https://arxiv.org/abs/2109.04775)] [[code](https://github.com/rishabhmaheshwary/query-attack)]
 1. **On the Transferability of Adversarial Attacks against Neural Text Classifier**. *Liping Yuan, Xiaoqing Zheng, Yi Zhou, Cho-Jui Hsieh, Kai-Wei Chang*. EMNLP 2021. [[pdf](https://arxiv.org/pdf/2011.08558.pdf)]
