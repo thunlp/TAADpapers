@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-124-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-125-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is mainly maintained by [Fanchao Qi](https://fanchao-qi.github.io/), [Chenghao Yang](https://yangalan123.github.io/) and [Yuan Zang](https://zangy17.github.io/) from [THUNLP](http://nlp.csai.tsinghua.edu.cn/). 
 
@@ -173,6 +173,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ## 5. Benchmark and Evaluation
 1. **Interpreting the Robustness of Neural NLP Models to Textual Perturbations.** *Yunxiang Zhang, Liangming Pan, Samson Tan, Min-Yen Kan*. Findings of ACL, 2022. [[pdf](https://arxiv.org/pdf/2110.07159.pdf)]
+1. **Dynabench: Rethinking Benchmarking in NLP.** *Douwe Kiela, Max Bartolo, Yixin Nie, Divyansh Kaushik, Atticus Geiger, Zhengxuan Wu, Bertie Vidgen, Grusha Prasad, Amanpreet Singh, Pratik Ringshia, Zhiyi Ma, Tristan Thrush, Sebastian Riedel, Zeerak Waseem, Pontus Stenetorp, Robin Jia, Mohit Bansal, Christopher Potts, Adina Williams*. NAACL 2021. [[pdf](https://aclanthology.org/2021.naacl-main.324.pdf)] [[website](https://dynabench.org/)]
 1. **Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models.** *Boxin Wang, Chejian Xu, Shuohang Wang, Zhe Gan, Yu Cheng, Jianfeng Gao, Ahmed Hassan Awadallah, Bo Li*. NeurIPS 2021 (Datasets and Benchmarks Track). [[pdf](https://arxiv.org/pdf/2111.02840.pdf)] [[website](https://adversarialglue.github.io/)]
 1. **Searching for an Effiective Defender: Benchmarking Defense against Adversarial Word Substitution.** *Zongyi Li, Jianhan Xu, Jiehang Zeng, Linyang Li, Xiaoqing Zheng, Qi Zhang, Kai-Wei Chang, and Cho-Jui Hsieh*. EMNLP 2021. [[pdf](https://arxiv.org/pdf/2108.12777.pdf)]
 1. **Double Perturbation: On the Robustness of Robustness and Counterfactual Bias Evaluation**. *Chong Zhang, Jieyu Zhao, Huan Zhang, Kai-Wei Chang, and Cho-Jui Hsieh* NAACL 2021. [[pdf](https://aclanthology.org/2021.naacl-main.305.pdf)] [[code](https://github.com/chong-z/nlp-second-order-attack)]
