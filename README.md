@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-125-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-126-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is mainly maintained by [Fanchao Qi](https://fanchao-qi.github.io/), [Chenghao Yang](https://yangalan123.github.io/) and [Yuan Zang](https://zangy17.github.io/) from [THUNLP](http://nlp.csai.tsinghua.edu.cn/). 
 
@@ -59,6 +59,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
+1. **Query-Efficient and Scalable Black-Box Adversarial Attacks on Discrete Sequential Data via Bayesian Optimization**. *Deokjae Lee, Seungyong Moon, Junhyeok Lee, Hyun Oh Song*. ICML 2022. `score` [[pdf](https://arxiv.org/abs/2206.08575)][[code](https://github.com/snu-mllab/DiscreteBlockBayesAttack)]
 1. **SemAttack: Natural Textual Attacks on Different Semantic Spaces**. *Boxin Wang, Chejian Xu, Xiangyu Liu, Yu Cheng, Bo Li*. Findings of NAACL 2022. `gradient` [[pdf](https://arxiv.org/abs/2205.01287)] [[code](https://github.com/AI-secure/SemAttack)]
 1. **Gradient-based Adversarial Attacks against Text Transformers**. *Chuan Guo, Alexandre Sablayrolles, Hervé Jégou, Douwe Kiela*. EMNLP 2021. `gradient` [[pdf](https://aclanthology.org/2021.emnlp-main.464.pdf)] [[code](https://github.com/facebookresearch/text-adversarial-attack)]
 1. **A Strong Baseline for Query Efficient Attacks in a Black Box Setting**. *Rishabh Maheswary, Saket Maheshwary, Vikram Pudi*. EMNLP 2021. `score` [[pdf](https://arxiv.org/abs/2109.04775)] [[code](https://github.com/rishabhmaheshwary/query-attack)]
