@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-126-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-This list is mainly maintained by [Fanchao Qi](https://fanchao-qi.github.io/), [Chenghao Yang](https://yangalan123.github.io/) and [Yuan Zang](https://zangy17.github.io/) from [THUNLP](http://nlp.csai.tsinghua.edu.cn/). 
+This list is mainly maintained by [Chenghao Yang](https://yangalan123.github.io/), [Fanchao Qi](https://fanchao-qi.github.io/), and [Yuan Zang](https://zangy17.github.io/) from [THUNLP](http://nlp.csai.tsinghua.edu.cn/). 
 
 We thank all the great [contributors](#contributors) very much.
 
@@ -28,8 +28,8 @@ We thank all the great [contributors](#contributors) very much.
 1. **SeqAttack: On Adversarial Attacks for Named Entity Recognition**. *Walter Simoncini, Gerasimos Spanakis*. EMNLP 2021 Demo. [[website](https://github.com/WalterSimoncini/SeqAttack)] [[pdf](https://aclanthology.org/2021.emnlp-demo.35.pdf)]
 
 ## 1. Survey Papers
-
-1. **Towards a Robust Deep Neural Network in Texts: A Survey**. *Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang, Aoshuang Ye*. arXiv 2020. [[pdf](https://arxiv.org/pdf/1902.07285.pdf)]
+1. **Measure and Improve Robustness in NLP Models: A Survey**. *Xuezhi Wang, Haohan Wang, Diyi Yang*. NAACL 2022. [[pdf](https://arxiv.org/pdf/2112.08313.pdf)]
+1. **Towards a Robust Deep Neural Network in Texts: A Survey**. *Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang, Aoshuang Ye*. TKDE 2021. [[pdf](https://arxiv.org/pdf/1902.07285.pdf)]
 1. **Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey**. *Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li*. ACM TIST 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3374217)]
 1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review**. *Han Xu, Yao Ma, Hao-chen Liu, Debayan Deb, Hui Liu, Ji-liang Tang, Anil K. Jain*. International Journal of Automation and Computing 2020. [[pdf](https://link.springer.com/content/pdf/10.1007/s11633-019-1211-x.pdf)]
 1. **Analysis Methods in Neural Language Processing: A Survey**. *Yonatan Belinkov, James Glass*. TACL 2019. [[pdf](https://www.aclweb.org/anthology/papers/Q/Q19/Q19-1004/)]
