@@ -129,6 +129,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension**. *Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu*. CoNLL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/K18-1011)] [[code](https://github.com/DigitalPhonetics/reading-comprehension)]
 
 ## 3. Defense Papers
+1. **Textual Manifold-based Defense against Natural Language Adversarial Examples**. *Dang Minh Nguyen, Luu Anh Tuan*. EMNLP 2022. [[pdf](https://arxiv.org/abs/2211.02878)] [[code](https://github.com/dangne/tmd/)]
 1. **SHIELD: Defending Textual Neural Networks against Multiple Black-Box Adversarial Attacks with Stochastic Multi-Expert Patcher**. *Thai Le, Noseong Park, Dongwon Lee*. ACL 2022. [[pdf](https://arxiv.org/pdf/2011.08908.pdf)]
 1. **Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense**. *Thai Le, Jooyoung Lee, Kevin Yen, Yifan Hu, Dongwon Lee*. ACL 2022 (Findings). [[pdf](https://arxiv.org/pdf/2203.10346.pdf)]
 1. **Achieving Model Robustness through Discrete Adversarial Training**. *Maor Ivgi, Jonathan Berant*. EMNLP 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.115.pdf)] [[code](https://github.com/Mivg/robust_transformers)]
