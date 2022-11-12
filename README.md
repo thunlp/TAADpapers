@@ -174,6 +174,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 
 ## 5. Benchmark and Evaluation
+1. **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP**. *Yangyi Chen, Hongcheng Gao, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun*. EMNLP 2022. [[pdf](https://arxiv.org/abs/2210.10683)] [[code&data](https://github.com/thunlp/Advbench)]
 1. **Interpreting the Robustness of Neural NLP Models to Textual Perturbations.** *Yunxiang Zhang, Liangming Pan, Samson Tan, Min-Yen Kan*. Findings of ACL, 2022. [[pdf](https://arxiv.org/pdf/2110.07159.pdf)]
 1. **Dynabench: Rethinking Benchmarking in NLP.** *Douwe Kiela, Max Bartolo, Yixin Nie, Divyansh Kaushik, Atticus Geiger, Zhengxuan Wu, Bertie Vidgen, Grusha Prasad, Amanpreet Singh, Pratik Ringshia, Zhiyi Ma, Tristan Thrush, Sebastian Riedel, Zeerak Waseem, Pontus Stenetorp, Robin Jia, Mohit Bansal, Christopher Potts, Adina Williams*. NAACL 2021. [[pdf](https://aclanthology.org/2021.naacl-main.324.pdf)] [[website](https://dynabench.org/)]
 1. **Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models.** *Boxin Wang, Chejian Xu, Shuohang Wang, Zhe Gan, Yu Cheng, Jianfeng Gao, Ahmed Hassan Awadallah, Bo Li*. NeurIPS 2021 (Datasets and Benchmarks Track). [[pdf](https://arxiv.org/pdf/2111.02840.pdf)] [[website](https://adversarialglue.github.io/)]
@@ -184,6 +185,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial NLI: A New Benchmark for Natural Language Understanding**. *Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston, Douwe Kiela*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.441.pdf)] [[demo](https://www.adversarialnli.com/)] [[dataset & leaderboard](https://github.com/facebookresearch/anli/)]
 1. **Evaluating NLP Models via Contrast Sets**. *Matt Gardner, Yoav Artzi, Victoria Basmova, Jonathan Berant, Ben Bogin, Sihao Chen, Pradeep Dasigi, Dheeru Dua, Yanai Elazar, Ananth Gottumukkala, Nitish Gupta, Hanna Hajishirzi, Gabriel Ilharco, Daniel Khashabi, Kevin Lin, Jiangming Liu, Nelson F. Liu, Phoebe Mulcaire, Qiang Ning, Sameer Singh, Noah A. Smith, Sanjay Subramanian, Reut Tsarfaty, Eric Wallace, Ally Zhang, Ben Zhou*. Findings of ACL: EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.findings-emnlp.117.pdf)] [[website](https://allennlp.org/contrast-sets)]
 1. **On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models**. *Paul Michel, Xian Li, Graham Neubig, Juan Miguel Pino*. NAACL-HLT 2019. [[pdf](https://www.aclweb.org/anthology/N19-1314)] [[code](https://github.com/pmichel31415/teapot-nlp)]
+
 
 ## 6. Other Papers
 
