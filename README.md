@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-128-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-129-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is mainly maintained by [Chenghao Yang](https://yangalan123.github.io/), [Fanchao Qi](https://fanchao-qi.github.io/), and [Yuan Zang](https://zangy17.github.io/) from [THUNLP](http://nlp.csai.tsinghua.edu.cn/). 
 
@@ -174,6 +174,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 
 ## 5. Benchmark and Evaluation
+1. **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP**. *Yangyi Chen, Hongcheng Gao, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun*. EMNLP 2022. [[pdf](https://arxiv.org/abs/2210.10683)] [[code&data](https://github.com/thunlp/Advbench)]
 1. **Interpreting the Robustness of Neural NLP Models to Textual Perturbations.** *Yunxiang Zhang, Liangming Pan, Samson Tan, Min-Yen Kan*. Findings of ACL, 2022. [[pdf](https://arxiv.org/pdf/2110.07159.pdf)]
 1. **Dynabench: Rethinking Benchmarking in NLP.** *Douwe Kiela, Max Bartolo, Yixin Nie, Divyansh Kaushik, Atticus Geiger, Zhengxuan Wu, Bertie Vidgen, Grusha Prasad, Amanpreet Singh, Pratik Ringshia, Zhiyi Ma, Tristan Thrush, Sebastian Riedel, Zeerak Waseem, Pontus Stenetorp, Robin Jia, Mohit Bansal, Christopher Potts, Adina Williams*. NAACL 2021. [[pdf](https://aclanthology.org/2021.naacl-main.324.pdf)] [[website](https://dynabench.org/)]
 1. **Adversarial GLUE: A Multi-Task Benchmark for Robustness Evaluation of Language Models.** *Boxin Wang, Chejian Xu, Shuohang Wang, Zhe Gan, Yu Cheng, Jianfeng Gao, Ahmed Hassan Awadallah, Bo Li*. NeurIPS 2021 (Datasets and Benchmarks Track). [[pdf](https://arxiv.org/pdf/2111.02840.pdf)] [[website](https://adversarialglue.github.io/)]
