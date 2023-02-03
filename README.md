@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-131-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-133-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is currently maintained by [Chenghao Yang](https://yangalan123.github.io/) at UChicago. 
 
@@ -132,6 +132,8 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ## 3. Defense Papers
 1. **Textual Manifold-based Defense against Natural Language Adversarial Examples**. *Dang Minh Nguyen, Luu Anh Tuan*. EMNLP 2022. [[pdf](https://arxiv.org/abs/2211.02878)] [[code](https://github.com/dangne/tmd/)]
+1. **Detecting Word-Level Adversarial Text Attacks via SHapley Additive exPlanations**. *Lukas Huber, Marc Alexander Kühn, Edoardo Mosca, Georg Groh*. Repl4NLP@ACL 2022. [[pdf](https://aclanthology.org/2022.repl4nlp-1.16.pdf)] [[code](https://github.com/huberl/adversarial_shap_detect_Repl4NLP)]
+1. **“That Is a Suspicious Reaction!”: Interpreting Logits Variation to Detect NLP Adversarial Attacks**. *Edoardo Mosca, Shreyash Agarwal, Javier Rando Ramírez, Georg Groh*. ACL 2022. [[pdf](https://aclanthology.org/2022.acl-long.538.pdf)] [[code](https://github.com/javirandor/wdr)]
 1. **SHIELD: Defending Textual Neural Networks against Multiple Black-Box Adversarial Attacks with Stochastic Multi-Expert Patcher**. *Thai Le, Noseong Park, Dongwon Lee*. ACL 2022. [[pdf](https://arxiv.org/pdf/2011.08908.pdf)]
 1. **Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense**. *Thai Le, Jooyoung Lee, Kevin Yen, Yifan Hu, Dongwon Lee*. ACL 2022 (Findings). [[pdf](https://arxiv.org/pdf/2203.10346.pdf)]
 1. **Achieving Model Robustness through Discrete Adversarial Training**. *Maor Ivgi, Jonathan Berant*. EMNLP 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.115.pdf)] [[code](https://github.com/Mivg/robust_transformers)]
