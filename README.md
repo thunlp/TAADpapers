@@ -178,6 +178,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 
 ## 5. Benchmark and Evaluation
+1. **Prompting GPT-3 To Be Reliable**. *Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-Graber, Lijuan Wang*. ICLR 2023. [[pdf](https://arxiv.org/abs/2210.09150)] [[code](https://github.com/NoviScl/GPT3-Reliability)]
 1. **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP**. *Yangyi Chen, Hongcheng Gao, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun*. EMNLP 2022. [[pdf](https://arxiv.org/abs/2210.10683)] [[code&data](https://github.com/thunlp/Advbench)]
 1. **Interpreting the Robustness of Neural NLP Models to Textual Perturbations.** *Yunxiang Zhang, Liangming Pan, Samson Tan, Min-Yen Kan*. Findings of ACL, 2022. [[pdf](https://arxiv.org/pdf/2110.07159.pdf)]
 1. **Contrasting Human- and Machine-Generated Word-Level Adversarial Examples for Text Classification**. *Maximilian Mozes, Max Bartolo, Pontus Stenetorp, Bennett Kleinberg, Lewis D. Griffin*. EMNLP 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.651.pdf)] [[code](https://github.com/maximilianmozes/human_adversaries)]
