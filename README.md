@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-134-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-135-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is currently maintained by [Chenghao Yang](https://yangalan123.github.io/) at UChicago. 
 
@@ -101,7 +101,8 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Crafting Adversarial Input Sequences For Recurrent Neural Networks**. *Nicolas Papernot, Patrick McDaniel, Ananthram Swami, Richard Harang*. MILCOM 2016. `gradient` [[pdf](https://arxiv.org/pdf/1604.08275.pdf)]
 
 ### 2.3 Char-level Attack
-
+1. **Using Punctuation as an Adversarial Attack on Deep Learning-Based NLP Systems: An Empirical Study**.
+  *Brian Formento, Chuan Sheng Foo, Luu Anh Tuan, See Kiong Ng*. EACL (Findings) 2023. `score` `blind` [[pdf](https://aclanthology.org/2023.findings-eacl.1.pdf)] [[code](https://github.com/Aniloid2/EmpiricalPunctuationInsertionAttacks)]
 1. **Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!**.
   *Xuanli He, Lingjuan Lyu, Lichao Sun, Qiongkai Xu*. NAACL-HLT 2021. `blind` [[pdf](https://aclanthology.org/2021.naacl-main.161.pdf)] [[code](https://github.com/xlhex/extract_and_transfer)]
 1. **Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems**.
