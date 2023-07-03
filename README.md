@@ -61,7 +61,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
-1. **Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework**. *Lifan Yuan, Yichi Zhang, Yangyi Chen, Wei Wei*. Findings of ACL 2023. `gradient`[[pdf](https://arxiv.org/abs/2110.15317)]
+1. **Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework**. *Lifan Yuan, Yichi Zhang, Yangyi Chen, Wei Wei*. Findings of ACL 2023. `decision`[[pdf](https://arxiv.org/abs/2110.15317)]
 1. **TextHoaxer: Budgeted Hard-Label Adversarial Attacks on Text**. *Muchao Ye, Chenglin Miao, Ting Wang, Fenglong Ma*. AAAI 2022. `decision` [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/20303)] [[code](https://github.com/machinelearning4health/TextHoaxer)]
 1. **Query-Efficient and Scalable Black-Box Adversarial Attacks on Discrete Sequential Data via Bayesian Optimization**. *Deokjae Lee, Seungyong Moon, Junhyeok Lee, Hyun Oh Song*. ICML 2022. `score` [[pdf](https://arxiv.org/abs/2206.08575)][[code](https://github.com/snu-mllab/DiscreteBlockBayesAttack)]
 1. **SemAttack: Natural Textual Attacks on Different Semantic Spaces**. *Boxin Wang, Chejian Xu, Xiangyu Liu, Yu Cheng, Bo Li*. Findings of NAACL 2022. `gradient` [[pdf](https://arxiv.org/abs/2205.01287)] [[code](https://github.com/AI-secure/SemAttack)]
