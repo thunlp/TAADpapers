@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-139-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-140-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is currently maintained by [Chenghao Yang](https://yangalan123.github.io/) at UChicago. 
 
@@ -199,6 +199,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ## 6. Other Papers
 
+1. **Preserving Semantics in Textual Adversarial Attacks**. *David Herel, Hugo Cisneros, Tomas Mikolov*. ECAI 2023. [[pdf](https://arxiv.org/abs/2211.04205)] [[code](https://github.com/DavidHerel/semantics-preserving-encoder)]
 1. **Identifying Human Strategies for Generating Word-Level Adversarial Examples**. *Maximilian Mozes, Bennett Kleinberg, Lewis D. Griffin*. Findings of ACL: EMNLP 2022. [[pdf](https://arxiv.org/abs/2210.11598)]
 1. **LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification**. *Jingjing Xu, Liang Zhao, Hanqi Yan, Qi Zeng, Yun Liang, Xu Sun*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1554.pdf)] [[code](https://github.com/lancopku/LexicalAT)]
 1. **Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations**. *Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun, Wei-Ying Ma*. CVPR 2019. [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Unified_Visual-Semantic_Embeddings_Bridging_Vision_and_Language_With_Structured_Meaning_CVPR_2019_paper.pdf)]
