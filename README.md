@@ -183,6 +183,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 
 ## 5. Benchmark and Evaluation
+1. **Preserving Semantics in Textual Adversarial Attacks**. *David Herel, Hugo Cisneros, Tomas Mikolov*. ECAI 2023. [[pdf](https://arxiv.org/abs/2211.04205)] [[code](https://github.com/DavidHerel/semantics-preserving-encoder)]
 1. **Prompting GPT-3 To Be Reliable**. *Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-Graber, Lijuan Wang*. ICLR 2023. [[pdf](https://arxiv.org/abs/2210.09150)] [[code](https://github.com/NoviScl/GPT3-Reliability)]
 1. **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP**. *Yangyi Chen, Hongcheng Gao, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun*. EMNLP 2022. [[pdf](https://arxiv.org/abs/2210.10683)] [[code&data](https://github.com/thunlp/Advbench)]
 1. **Interpreting the Robustness of Neural NLP Models to Textual Perturbations.** *Yunxiang Zhang, Liangming Pan, Samson Tan, Min-Yen Kan*. Findings of ACL, 2022. [[pdf](https://arxiv.org/pdf/2110.07159.pdf)]
@@ -199,7 +200,6 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ## 6. Other Papers
 
-1. **Preserving Semantics in Textual Adversarial Attacks**. *David Herel, Hugo Cisneros, Tomas Mikolov*. ECAI 2023. [[pdf](https://arxiv.org/abs/2211.04205)] [[code](https://github.com/DavidHerel/semantics-preserving-encoder)]
 1. **Identifying Human Strategies for Generating Word-Level Adversarial Examples**. *Maximilian Mozes, Bennett Kleinberg, Lewis D. Griffin*. Findings of ACL: EMNLP 2022. [[pdf](https://arxiv.org/abs/2210.11598)]
 1. **LexicalAT: Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification**. *Jingjing Xu, Liang Zhao, Hanqi Yan, Qi Zeng, Yun Liang, Xu Sun*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1554.pdf)] [[code](https://github.com/lancopku/LexicalAT)]
 1. **Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations**. *Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun, Wei-Ying Ma*. CVPR 2019. [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Unified_Visual-Semantic_Embeddings_Bridging_Vision_and_Language_With_Structured_Meaning_CVPR_2019_paper.pdf)]
