@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-139-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-140-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is currently maintained by [Chenghao Yang](https://yangalan123.github.io/) at UChicago. 
 
@@ -183,6 +183,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 
 ## 5. Benchmark and Evaluation
+1. **Preserving Semantics in Textual Adversarial Attacks**. *David Herel, Hugo Cisneros, Tomas Mikolov*. ECAI 2023. [[pdf](https://arxiv.org/abs/2211.04205)] [[code](https://github.com/DavidHerel/semantics-preserving-encoder)]
 1. **Prompting GPT-3 To Be Reliable**. *Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-Graber, Lijuan Wang*. ICLR 2023. [[pdf](https://arxiv.org/abs/2210.09150)] [[code](https://github.com/NoviScl/GPT3-Reliability)]
 1. **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP**. *Yangyi Chen, Hongcheng Gao, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun*. EMNLP 2022. [[pdf](https://arxiv.org/abs/2210.10683)] [[code&data](https://github.com/thunlp/Advbench)]
 1. **Interpreting the Robustness of Neural NLP Models to Textual Perturbations.** *Yunxiang Zhang, Liangming Pan, Samson Tan, Min-Yen Kan*. Findings of ACL, 2022. [[pdf](https://arxiv.org/pdf/2110.07159.pdf)]
