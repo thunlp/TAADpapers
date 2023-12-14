@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-134-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-140-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is currently maintained by [Chenghao Yang](https://yangalan123.github.io/) at UChicago. 
 
@@ -62,6 +62,9 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
+1. **Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework**. *Lifan Yuan, Yichi Zhang, Yangyi Chen, Wei Wei*. Findings of ACL 2023. `decision`[[pdf](https://arxiv.org/abs/2110.15317)]
+1. **TextHacker: Learning based Hybrid Local Search Algorithm for Text Hard-label Adversarial Attack**. *Zhen Yu, Xiaosen Wang, Wanxiang Che, Kun He*. Findings of EMNLP 2022. `decision`[[pdf](https://arxiv.org/abs/2201.08193)][[code](https://github.com/jhl-hust/texthacker)]
+1. **TextHoaxer: Budgeted Hard-Label Adversarial Attacks on Text**. *Muchao Ye, Chenglin Miao, Ting Wang, Fenglong Ma*. AAAI 2022. `decision` [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/20303)] [[code](https://github.com/machinelearning4health/TextHoaxer)]
 1. **Query-Efficient and Scalable Black-Box Adversarial Attacks on Discrete Sequential Data via Bayesian Optimization**. *Deokjae Lee, Seungyong Moon, Junhyeok Lee, Hyun Oh Song*. ICML 2022. `score` [[pdf](https://arxiv.org/abs/2206.08575)][[code](https://github.com/snu-mllab/DiscreteBlockBayesAttack)]
 1. **SemAttack: Natural Textual Attacks on Different Semantic Spaces**. *Boxin Wang, Chejian Xu, Xiangyu Liu, Yu Cheng, Bo Li*. Findings of NAACL 2022. `gradient` [[pdf](https://arxiv.org/abs/2205.01287)] [[code](https://github.com/AI-secure/SemAttack)]
 1. **Gradient-based Adversarial Attacks against Text Transformers**. *Chuan Guo, Alexandre Sablayrolles, Hervé Jégou, Douwe Kiela*. EMNLP 2021. `gradient` [[pdf](https://aclanthology.org/2021.emnlp-main.464.pdf)] [[code](https://github.com/facebookresearch/text-adversarial-attack)]
@@ -102,7 +105,8 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Crafting Adversarial Input Sequences For Recurrent Neural Networks**. *Nicolas Papernot, Patrick McDaniel, Ananthram Swami, Richard Harang*. MILCOM 2016. `gradient` [[pdf](https://arxiv.org/pdf/1604.08275.pdf)]
 
 ### 2.3 Char-level Attack
-
+1. **Using Punctuation as an Adversarial Attack on Deep Learning-Based NLP Systems: An Empirical Study**.
+  *Brian Formento, Chuan Sheng Foo, Luu Anh Tuan, See Kiong Ng*. EACL (Findings) 2023. `score` `blind` [[pdf](https://aclanthology.org/2023.findings-eacl.1.pdf)] [[code](https://github.com/Aniloid2/EmpiricalPunctuationInsertionAttacks)]
 1. **Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!**.
   *Xuanli He, Lingjuan Lyu, Lichao Sun, Qiongkai Xu*. NAACL-HLT 2021. `blind` [[pdf](https://aclanthology.org/2021.naacl-main.161.pdf)] [[code](https://github.com/xlhex/extract_and_transfer)]
 1. **Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems**.
@@ -134,6 +138,7 @@ Each paper is attached to one or more following labels indicating how much infor
 ## 3. Defense Papers
 1. **Textual Manifold-based Defense against Natural Language Adversarial Examples**. *Dang Minh Nguyen, Luu Anh Tuan*. EMNLP 2022. [[pdf](https://arxiv.org/abs/2211.02878)] [[code](https://github.com/dangne/tmd/)]
 1. **Detecting Word-Level Adversarial Text Attacks via SHapley Additive exPlanations**. *Lukas Huber, Marc Alexander Kühn, Edoardo Mosca, Georg Groh*. Repl4NLP@ACL 2022. [[pdf](https://aclanthology.org/2022.repl4nlp-1.16.pdf)] [[code](https://github.com/huberl/adversarial_shap_detect_Repl4NLP)]
+1. **Detection of Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation**. *KiYoon Yoo, Jangho Kim, Jiho Jang, Nojun Kwawk*. ACL 2022 (Findings). [[pdf](https://aclanthology.org/2022.findings-acl.289.pdf)] [[code](https://github.com/bangawayoo/adversarial-examples-in-text-classification)]
 1. **“That Is a Suspicious Reaction!”: Interpreting Logits Variation to Detect NLP Adversarial Attacks**. *Edoardo Mosca, Shreyash Agarwal, Javier Rando Ramírez, Georg Groh*. ACL 2022. [[pdf](https://aclanthology.org/2022.acl-long.538.pdf)] [[code](https://github.com/javirandor/wdr)]
 1. **SHIELD: Defending Textual Neural Networks against Multiple Black-Box Adversarial Attacks with Stochastic Multi-Expert Patcher**. *Thai Le, Noseong Park, Dongwon Lee*. ACL 2022. [[pdf](https://arxiv.org/pdf/2011.08908.pdf)]
 1. **Perturbations in the Wild: Leveraging Human-Written Text Perturbations for Realistic Adversarial Attack and Defense**. *Thai Le, Jooyoung Lee, Kevin Yen, Yifan Hu, Dongwon Lee*. ACL 2022 (Findings). [[pdf](https://arxiv.org/pdf/2203.10346.pdf)]
@@ -179,6 +184,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 
 ## 5. Benchmark and Evaluation
+1. **Preserving Semantics in Textual Adversarial Attacks**. *David Herel, Hugo Cisneros, Tomas Mikolov*. ECAI 2023. [[pdf](https://arxiv.org/abs/2211.04205)] [[code](https://github.com/DavidHerel/semantics-preserving-encoder)]
 1. **Prompting GPT-3 To Be Reliable**. *Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-Graber, Lijuan Wang*. ICLR 2023. [[pdf](https://arxiv.org/abs/2210.09150)] [[code](https://github.com/NoviScl/GPT3-Reliability)]
 1. **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP**. *Yangyi Chen, Hongcheng Gao, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun*. EMNLP 2022. [[pdf](https://arxiv.org/abs/2210.10683)] [[code&data](https://github.com/thunlp/Advbench)]
 1. **Interpreting the Robustness of Neural NLP Models to Textual Perturbations.** *Yunxiang Zhang, Liangming Pan, Samson Tan, Min-Yen Kan*. Findings of ACL, 2022. [[pdf](https://arxiv.org/pdf/2110.07159.pdf)]
