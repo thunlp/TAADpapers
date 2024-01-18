@@ -121,6 +121,7 @@ Each paper is attached to one or more following labels indicating how much infor
 *Yonatan Belinkov, Yonatan Bisk*. ICLR 2018. `blind` [[pdf](https://arxiv.org/pdf/1711.02173.pdf)] [[code&data](https://github.com/ybisk/charNMT-noise)]
 
 ### 2.4 Multi-level Attack
+1. **An LLM can Fool Itself: A Prompt-Based Adversarial Attack**. *Xilie Xu, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli*. ICLR 2024. `blind` [[pdf](https://arxiv.org/pdf/2310.13345.pdf)] 
 1. **Multi-granularity Textual Adversarial Attack with Behavior Cloning**. *Yangyi Chen, Jin Su, Wei Wei*. EMNLP 2021. `blind` [[pdf](https://aclanthology.org/2021.emnlp-main.371.pdf)] [[code](https://github.com/Yangyi-Chen/MAYA)]
 1. **Synthesizing Adversarial Negative Responses for Robust Response Ranking and Evaluation**. *Prakhar Gupta, Yulia Tsvetkov, Jeffrey Bigham*. Findings of ACL: ACL-IJCNLP 2021. `blind` [[pdf](https://aclanthology.org/2021.findings-acl.338.pdf)] [[code](https://github.com/prakharguptaz/Adv_gen_dialogue)]
 1. **Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots**. *Samson Tan, Shafiq Joty*. NAACL-HLT 2021. `score` [[pdf](https://aclanthology.org/2021.naacl-main.282.pdf)] [[code](https://github.com/salesforce/adversarial-polyglots)]
@@ -184,6 +185,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 
 ## 5. Benchmark and Evaluation
+1. **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models**. *Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li*. NeurIPS 2023 (Datasets and Benchmarks Track). [[pdf](https://arxiv.org/pdf/2306.11698.pdf)] [[website](https://decodingtrust.github.io/)]
 1. **Preserving Semantics in Textual Adversarial Attacks**. *David Herel, Hugo Cisneros, Tomas Mikolov*. ECAI 2023. [[pdf](https://arxiv.org/abs/2211.04205)] [[code](https://github.com/DavidHerel/semantics-preserving-encoder)]
 1. **Prompting GPT-3 To Be Reliable**. *Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-Graber, Lijuan Wang*. ICLR 2023. [[pdf](https://arxiv.org/abs/2210.09150)] [[code](https://github.com/NoviScl/GPT3-Reliability)]
 1. **Why Should Adversarial Perturbations be Imperceptible? Rethink the Research Paradigm in Adversarial NLP**. *Yangyi Chen, Hongcheng Gao, Ganqu Cui, Fanchao Qi, Longtao Huang, Zhiyuan Liu, Maosong Sun*. EMNLP 2022. [[pdf](https://arxiv.org/abs/2210.10683)] [[code&data](https://github.com/thunlp/Advbench)]
