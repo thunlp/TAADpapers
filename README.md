@@ -63,7 +63,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ### 2.2 Word-level Attack
 1. **Expanding Scope: Adapting English Adversarial Attacks to Chinese**. *Hanyu Liu, Chengyuan Cai, Yanjun Qi*. Findings of ACL 2023.`decision`[[pdf](https://arxiv.org/abs/2306.04874)][[code](https://github.com/QData/TextAttack/blob/master/docs/2notebook/Example_6_Chinese_Attack.ipynb)]
-1. **Adversarial Text Generation by Search and Learning**. *Guoyi Li1, Bingkang Shi1, Zongzhen Liu1, Dehan Kong2, Yulei Wu3, Xiaodan Zhang1, Longtao Huang2, Honglei Lyu1*. Findings of ACL 2023.`decision`[[pdf](https://aclanthology.org/2023.findings-emnlp.1053.pdf)]
+1. **Adversarial Text Generation by Search and Learning**. *Guoyi Li, Bingkang Shi, Zongzhen Liu, Dehan Kong, Yulei Wu, Xiaodan Zhang, Longtao Huang, Honglei Lyu*. Findings of ACL 2023.`decision`[[pdf](https://aclanthology.org/2023.findings-emnlp.1053.pdf)]
 1. **Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework**. *Lifan Yuan, Yichi Zhang, Yangyi Chen, Wei Wei*. Findings of ACL 2023. `decision`[[pdf](https://arxiv.org/abs/2110.15317)]
 1. **TextHacker: Learning based Hybrid Local Search Algorithm for Text Hard-label Adversarial Attack**. *Zhen Yu, Xiaosen Wang, Wanxiang Che, Kun He*. Findings of EMNLP 2022. `decision`[[pdf](https://arxiv.org/abs/2201.08193)][[code](https://github.com/jhl-hust/texthacker)]
 1. **TextHoaxer: Budgeted Hard-Label Adversarial Attacks on Text**. *Muchao Ye, Chenglin Miao, Ting Wang, Fenglong Ma*. AAAI 2022. `decision` [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/20303)] [[code](https://github.com/machinelearning4health/TextHoaxer)]
