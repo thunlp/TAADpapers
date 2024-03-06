@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-143-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-145-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is currently maintained by [Chenghao Yang](https://yangalan123.github.io/) at UChicago. 
 
@@ -62,6 +62,8 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Adversarial Sets for Regularising Neural Link Predictors**. *Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel*. UAI 2017. `score` [[pdf](https://arxiv.org/pdf/1707.07596.pdf)] [[code](https://github.com/uclmr/inferbeddings)]
 
 ### 2.2 Word-level Attack
+1. **Expanding Scope: Adapting English Adversarial Attacks to Chinese**. *Hanyu Liu, Chengyuan Cai, Yanjun Qi*. Findings of ACL 2023.`decision`[[pdf](https://arxiv.org/abs/2306.04874)][[code](https://github.com/QData/TextAttack/blob/master/docs/2notebook/Example_6_Chinese_Attack.ipynb)]
+1. **Adversarial Text Generation by Search and Learning**. *Guoyi Li, Bingkang Shi, Zongzhen Liu, Dehan Kong, Yulei Wu, Xiaodan Zhang, Longtao Huang, Honglei Lyu*. Findings of ACL 2023.`decision`[[pdf](https://aclanthology.org/2023.findings-emnlp.1053.pdf)]
 1. **Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework**. *Lifan Yuan, Yichi Zhang, Yangyi Chen, Wei Wei*. Findings of ACL 2023. `decision`[[pdf](https://arxiv.org/abs/2110.15317)]
 1. **TextHacker: Learning based Hybrid Local Search Algorithm for Text Hard-label Adversarial Attack**. *Zhen Yu, Xiaosen Wang, Wanxiang Che, Kun He*. Findings of EMNLP 2022. `decision`[[pdf](https://arxiv.org/abs/2201.08193)][[code](https://github.com/jhl-hust/texthacker)]
 1. **TextHoaxer: Budgeted Hard-Label Adversarial Attacks on Text**. *Muchao Ye, Chenglin Miao, Ting Wang, Fenglong Ma*. AAAI 2022. `decision` [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/20303)] [[code](https://github.com/machinelearning4health/TextHoaxer)]
