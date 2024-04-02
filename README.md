@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-145-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-146-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is currently maintained by [Chenghao Yang](https://yangalan123.github.io/) at UChicago. 
 
@@ -139,6 +139,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension**. *Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu*. CoNLL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/K18-1011)] [[code](https://github.com/DigitalPhonetics/reading-comprehension)]
 
 ## 3. Defense Papers
+1. **Generative Adversarial Training with Perturbed Token Detection for Model Robustness**. *Jiahao Zhao, Wenji Mao*. EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.804/)] [[code](https://github.com/Opdoop/GenerAT)]
 1. **Textual Manifold-based Defense against Natural Language Adversarial Examples**. *Dang Minh Nguyen, Luu Anh Tuan*. EMNLP 2022. [[pdf](https://arxiv.org/abs/2211.02878)] [[code](https://github.com/dangne/tmd/)]
 1. **Detecting Word-Level Adversarial Text Attacks via SHapley Additive exPlanations**. *Lukas Huber, Marc Alexander Kühn, Edoardo Mosca, Georg Groh*. Repl4NLP@ACL 2022. [[pdf](https://aclanthology.org/2022.repl4nlp-1.16.pdf)] [[code](https://github.com/huberl/adversarial_shap_detect_Repl4NLP)]
 1. **Detection of Adversarial Examples in Text Classification: Benchmark and Baseline via Robust Density Estimation**. *KiYoon Yoo, Jangho Kim, Jiho Jang, Nojun Kwawk*. ACL 2022 (Findings). [[pdf](https://aclanthology.org/2022.findings-acl.289.pdf)] [[code](https://github.com/bangawayoo/adversarial-examples-in-text-classification)]
