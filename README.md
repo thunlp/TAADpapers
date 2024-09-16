@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-149-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-150-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is currently maintained by [Chenghao Yang](https://yangalan123.github.io/) at UChicago. 
 
@@ -107,7 +107,8 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Crafting Adversarial Input Sequences For Recurrent Neural Networks**. *Nicolas Papernot, Patrick McDaniel, Ananthram Swami, Richard Harang*. MILCOM 2016. `gradient` [[pdf](https://arxiv.org/pdf/1604.08275.pdf)]
 
 ### 2.3 Char-level Attack
-1. **Punctuation-level Attack: Single-shot and Single Punctuation Can Fool Text Models**. *Wenqiang Wang, Chongyang Du, Tao Wang, Kaihao Zhang, Wenhan Luo, Lin Ma, Wei Liu, Xiaochun Cao*. NeurIPS 2023 `score` `blind` [[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/9a9f4e15ad0d680429a3e0570a96f763-Paper-Conference.pdf)]
+1. **VertAttack: Taking advantage of Text Classifiers' horizontal vision**. *Jonathan Rusert*, NAACL 2024. `score` `blind` [[pdf](https://aclanthology.org/2024.naacl-long.41.pdf)]
+1. **Punctuation-level Attack: Single-shot and Single Punctuation Can Fool Text Models**. *Wenqiang Wang, Chongyang Du, Tao Wang, Kaihao Zhang, Wenhan Luo, Lin Ma, Wei Liu, Xiaochun Cao*. NeurIPS 2023. `score` `blind` [[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/9a9f4e15ad0d680429a3e0570a96f763-Paper-Conference.pdf)]
 1. **Using Punctuation as an Adversarial Attack on Deep Learning-Based NLP Systems: An Empirical Study**.
   *Brian Formento, Chuan Sheng Foo, Luu Anh Tuan, See Kiong Ng*. EACL (Findings) 2023. `score` `blind` [[pdf](https://aclanthology.org/2023.findings-eacl.1.pdf)] [[code](https://github.com/Aniloid2/EmpiricalPunctuationInsertionAttacks)]
 1. **Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!**.
