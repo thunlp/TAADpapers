@@ -1,6 +1,6 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-150-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-152-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This list is currently maintained by [Chenghao Yang](https://yangalan123.github.io/) at UChicago. 
 
@@ -107,6 +107,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Crafting Adversarial Input Sequences For Recurrent Neural Networks**. *Nicolas Papernot, Patrick McDaniel, Ananthram Swami, Richard Harang*. MILCOM 2016. `gradient` [[pdf](https://arxiv.org/pdf/1604.08275.pdf)]
 
 ### 2.3 Char-level Attack
+1. **Revisiting Character-level Adversarial Attacks for Language Models**. *Elias Abad Rocamora*, Yongtao Wu, Fanghui Liu, Grigorios G. Chrysos, Volkan Cevher, ICML 2024. `score` `blind` `gradient` [[pdf](https://arxiv.org/abs/2405.04346)] [[code](https://github.com/LIONS-EPFL/Charmer)]
 1. **VertAttack: Taking advantage of Text Classifiers' horizontal vision**. *Jonathan Rusert*, NAACL 2024. `score` `blind` [[pdf](https://aclanthology.org/2024.naacl-long.41.pdf)]
 1. **Punctuation-level Attack: Single-shot and Single Punctuation Can Fool Text Models**. *Wenqiang Wang, Chongyang Du, Tao Wang, Kaihao Zhang, Wenhan Luo, Lin Ma, Wei Liu, Xiaochun Cao*. NeurIPS 2023. `score` `blind` [[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/9a9f4e15ad0d680429a3e0570a96f763-Paper-Conference.pdf)]
 1. **Using Punctuation as an Adversarial Attack on Deep Learning-Based NLP Systems: An Empirical Study**.
@@ -141,6 +142,7 @@ Each paper is attached to one or more following labels indicating how much infor
 1. **Comparing Attention-based Convolutional and Recurrent Neural Networks: Success and Limitations in Machine Reading Comprehension**. *Matthias Blohm, Glorianna Jagfeld, Ekta Sood, Xiang Yu, Ngoc Thang Vu*. CoNLL 2018. `gradient` [[pdf](https://www.aclweb.org/anthology/K18-1011)] [[code](https://github.com/DigitalPhonetics/reading-comprehension)]
 
 ## 3. Defense Papers
+1. **Are AI-Generated Text Detectors Robust to Adversarial Perturbations?** *Huang, Guanhua, Yuchen Zhang, Zhe Li, Yongjian You, Mingze Wang, and Zhouwang Yang.* ACL 2024. [[pdf](http://arxiv.org/abs/2406.01179)] [[code](https://github.com/CarlanLark/Robust-AIGC-Detector)]
 1. **SemRoDe: Macro Adversarial Training to Learn Representations that are Robust to Word-Level Attacks**. *Brian Formento, Wenjie Feng, Chuan-Sheng Foo, Anh Tuan Luu, See-Kiong Ng*. NAACL 2024. [[pdf](https://aclanthology.org/2024.naacl-long.443)] [[code](https://github.com/Aniloid2/SemRoDe-MacroAdversarialTraining)]  
 1. **DSRM: Boost Textual Adversarial Training with Distribution Shift Risk Minimization**. *SongYang Gao, Shihan Dou, Yan Liu, Xiao Wang, Qi Zhang, Zhongyu Wei, Jin Ma, Ying Shan*. ACL 2023. [[pdf](https://aclanthology.org/2023.acl-long.680)] [[code](https://github.com/SleepThroughDifficulties/DSRM)]
 1. **Generative Adversarial Training with Perturbed Token Detection for Model Robustness**. *Jiahao Zhao, Wenji Mao*. EMNLP 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.804/)] [[code](https://github.com/Opdoop/GenerAT)]
