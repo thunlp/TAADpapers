@@ -1,6 +1,8 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
+
 ![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-152-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+
 
 This list is currently maintained by [Chenghao Yang](https://yangalan123.github.io/) at UChicago. 
 
