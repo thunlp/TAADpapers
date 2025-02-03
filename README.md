@@ -180,7 +180,8 @@ Each paper is attached to one or more following labels indicating how much infor
 
 
 ## 4. Certified Robustness
-
+1. **CERT-ED: Certifiably Robust Text Classification for Edit Distance**
+*Zhuoqun Huang, Neil G. Marchant, Olga Ohrimenko, Benjamin I. P. Rubinstein*. Findings of ACL: EMNLP 2024. [[pdf](https://aclanthology.org/2024.findings-emnlp.635.pdf)]
 1. **Certified Robustness to Word Substitution Attack with Differential Privacy**.
 *Wenjie Wang, Pengfei Tang, Jian Lou, Li Xiong*. NAACL-HLT 2021. [[pdf](https://aclanthology.org/2021.naacl-main.87.pdf)]
 1. **Automatic Perturbation Analysis for Scalable Certified Robustness and Beyond**.
