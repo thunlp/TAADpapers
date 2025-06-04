@@ -1,7 +1,7 @@
 # Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 
 
-![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-154-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/thunlp/TAADpapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-155-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
 This list is currently maintained by [Chenghao Yang](https://yangalan123.github.io/) at UChicago. 
@@ -65,6 +65,7 @@ Each paper is attached to one or more following labels indicating how much infor
 
 ### 2.2 Word-level Attack
 1. **Confidence Elicitation: A New Attack Vector for Large Language Models**. *Brian Formento, Chuan-Sheng Foo, See-Kiong Ng*. ICLR 2025. `score`[[pdf](https://openreview.net/pdf?id=aTYexOYlLb)][[code](https://github.com/Aniloid2/Confidence_Elicitation_Attacks)]
+1. **HyGloadAttack: Hard-label black-box textual adversarial attacks via hybrid optimization**. *Zhaorong Liu, Xi Xiong, Yuanyuan Li, Yan Yu, Jiazhong Lu, Shuai Zhang, Fei Xiong*. Neural Networks 2024.`descision`[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S089360802400385X)][[code](https://github.com/rick-lzr/HyGloadAttack)]
 1. **Expanding Scope: Adapting English Adversarial Attacks to Chinese**. *Hanyu Liu, Chengyuan Cai, Yanjun Qi*. Findings of ACL 2023.`decision`[[pdf](https://arxiv.org/abs/2306.04874)][[code](https://github.com/QData/TextAttack/blob/master/docs/2notebook/Example_6_Chinese_Attack.ipynb)]
 1. **Adversarial Text Generation by Search and Learning**. *Guoyi Li, Bingkang Shi, Zongzhen Liu, Dehan Kong, Yulei Wu, Xiaodan Zhang, Longtao Huang, Honglei Lyu*. Findings of ACL 2023.`score`[[pdf](https://aclanthology.org/2023.findings-emnlp.1053.pdf)][[code](https://github.com/DABAI6666/ATGSL)]
 1. **Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack Framework**. *Lifan Yuan, Yichi Zhang, Yangyi Chen, Wei Wei*. Findings of ACL 2023. `decision`[[pdf](https://arxiv.org/abs/2110.15317)][[code]([https://github.com/jhl-hust/texthacker](https://github.com/Phantivia/T-PGD))]
